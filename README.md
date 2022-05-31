@@ -1,4 +1,4 @@
-# comparative-dicty-symbionts
+# Comparative genomics of Dictyostelium discoideum-symbiont Paraburkholderia
 Repository to support: Comparative genomics support Paraburkholderia symbionts of Dictyostelium discoideum amoebas have evolved to be professional symbionts adapted to their host environment
 
 Supporting data and scripts are organized as follow:
