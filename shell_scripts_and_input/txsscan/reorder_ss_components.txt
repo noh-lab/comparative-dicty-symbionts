@@ -1,0 +1,12 @@
+T1SS
+T2SS
+Tad
+T3SS
+Flagellum
+pT4SSt
+cT4SS_typeG
+cT4SS_typeT
+T5aSS
+T5bSS
+T5cSS
+T6SSi
