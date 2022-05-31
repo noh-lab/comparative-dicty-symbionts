@@ -1,0 +1,134 @@
+query id	besthit id	norm LPI	pct id	pct coverage	evalue	species	query annotation	besthit annotation
+PAGRI_00009	WP_039515514.1	0.632	36.1	84	4.90E-28	Pectobacterium brasiliense	hypothetical protein	hypothetical protein [Pectobacterium brasiliense]KHS74020.1 hypothetical protei
+PAGRI_00010	WP_156167967.1	0.767	82	100	2.60E-126	Vogesella sp. EB	hypothetical protein	hypothetical protein [Vogesella sp. EB]
+PAGRI_00011	WP_106706740.1	0.767	80.5	100	2.80E-175	Nitrosomonas sp. APG5	Mrr restriction system protein	restriction endonuclease [Nitrosomonas sp. APG5]PSJ17496.1 restriction endonucl
+PAGRI_00056	WP_184601706.1	0.632	35.3	104	5.50E-30	Rhodanobacter sp. MP1X3	hypothetical protein	hypothetical protein [Rhodanobacter sp. MP1X3]MBB6242449.1 hypothetical protein
+PAGRI_00703	WP_133322326.1	0.632	37.5	76	9.60E-19	Luteimonas aestuarii	hypothetical protein	hypothetical protein [Luteimonas aestuarii]TDK23073.1 hypothetical protein E2F4
+PAGRI_00706	OQX20210.1	0.676	41.3	101	1.60E-65	Desulfobacteraceae bacterium IS3	hypothetical protein	hypothetical protein BWK80_35995 [Desulfobacteraceae bacterium IS3]
+PAGRI_00721	WP_134055683.1	0.631	53.6	99	1.80E-99	Rheinheimera aquimaris	hypothetical protein	hypothetical protein [Rheinheimera aquimaris]
+PAGRI_00725	WP_140712169.1	0.632	67.1	99	2.30E-112	Mesorhizobium sp. B2-7-3	hypothetical protein	hypothetical protein [Mesorhizobium sp. B2-7-3]TPJ20227.1 hypothetical protein 
+PAGRI_00726	WP_140048026.1	0.631	53.6	101	4.40E-47	Sphingomonas japonica	hypothetical protein	hypothetical protein [Sphingomonas japonica]NIJ22825.1 hypothetical protein [Sp
+PAGRI_00763	WP_045002236.1	0.632	50.6	92	9.60E-124	Bradyrhizobium sp. LTSP857	C4-dicarboxylate transporter DctA	cation:dicarboxylase symporter family transporter [Bradyrhizobium sp. LTSP857]K
+PAGRI_00765	WP_194462269.1	0.632	83.1	99	6.90E-155	Bradyrhizobium sp. CCBAU 53340	AraC family transcriptional regulator	helix-turn-helix domain-containing protein [Bradyrhizobium sp. CCBAU 53340]QOZ4
+PAGRI_00766	WP_106943218.1	0.632	81.9	99	0.00E+00	Bradyrhizobium sp. MOS002	Fumonisin B1 esterase	carboxylesterase family protein [Bradyrhizobium sp. MOS002]PSO31272.1 carboxyle
+PAGRI_00964	WP_106707641.1	0.767	93.2	100	1.40E-35	Nitrosomonas sp. APG5	50S ribosomal protein L32	50S ribosomal protein L32 [Nitrosomonas sp. APG5]PSJ16575.1 50S ribosomal prote
+PAGRI_01175	WP_159910928.1	0.632	48.1	77	4.70E-16	Pantoea sp. 18069	hypothetical protein	hypothetical protein [Pantoea sp. 18069]
+PAGRI_01186	WP_188794051.1	0.632	53.1	86	1.60E-17	Dyella nitratireducens	hypothetical protein	unnamed protein product
+PAGRI_01191	WP_152740301.1	0.633	81.8	99	2.80E-304	Pseudomonas sp. MWU12-2323	type VI secretion system protein TssC-5	type VI secretion system contractile sheath large subunit [Pseudomonas sp. MWU12
+PAGRI_01201	WP_173966611.1	0.421	39	89	2.30E-56	Flavobacterium collinsii	Tol-Pal system protein TolB	PD40 domain-containing protein [Flavobacterium collinsii]CAA9199321.1 Tol-Pal s
+PAGRI_01372	PCE26854.1	0.633	78.7	100	7.00E-169	Pseudomonas acidophila	LysR family transcriptional regulator	LysR family transcriptional regulator [Pseudomonas acidophila]
+PAGRI_01374	PCE26852.1	0.633	84	100	0.00E+00	Pseudomonas acidophila	penicillin amidase	hypothetical protein BWP39_08680 [Pseudomonas acidophila]
+PAGRI_01383	WP_188695441.1	0.767	82.5	89	1.6e-311	Silvimonas amylolytica	hypothetical protein	hypothetical protein [Silvimonas amylolytica]GGP27134.1 hypothetical protein GC
+PAGRI_01414	WP_050320422.1	0.632	36.8	87	3.10E-25	Yersinia pseudotuberculosis	BpaE	YadA-like family protein [Yersinia pseudotuberculosis]CNC91080.1 hemagglutinati
+PAGRI_01559	TDU70223.1	0.631	27.9	71	7.20E-15	Labrenzia sp. PT13C1	hypothetical protein	hypothetical protein C7965_2280 [Labrenzia sp. PT13C1]
+PAGRI_01672	WP_149336359.1	0.606	72	100	9.00E-171	Neorhizobium sp. P12A	potassium channel subunit	aldo/keto reductase [Neorhizobium sp. P12A]KAA0701248.1 aldo/keto reductase [Ne
+PAGRI_01674	WP_116271427.1	0.488	74	97	1.60E-264	Frankia sp. BMG5.36	phenylacetaldehyde dehydrogenase	aldehyde dehydrogenase [Frankia sp. BMG5.36]
+PAGRI_01675	WP_184605232.1	0.632	71.5	100	4.70E-126	Rhodanobacter sp. MP1X3	short chain dehydrogenase	SDR family oxidoreductase [Rhodanobacter sp. MP1X3]MBB6244928.1 NAD(P)-dependen
+PAGRI_01677	TLY58948.1	0.842	77.3	93	3.00E-64	Gammaproteobacteria bacterium	hypothetical protein	DUF2255 family protein [Gammaproteobacteria bacterium]
+PAGRI_01678	PYM88869.1	0.562	63	91	8.20E-64	Candidatus Rokubacteria bacterium	hypothetical protein	cupin domain-containing protein [Candidatus Rokubacteria bacterium]
+PAGRI_01731	WP_195881570.1	0.633	88.9	100	3.20E-194	Pseudomonas mendocina	LysR family transcriptional regulator	LysR family transcriptional regulator [Pseudomonas mendocina]MBF8160906.1 LysR 
+PAGRI_01732	WP_166182349.1	0.632	77.7	100	1.30E-165	Leclercia sp. 29361	putative protein	alpha/beta fold hydrolase [Leclercia sp. 29361]QIK13781.1 alpha/beta hydrolase 
+PAGRI_01753	WP_098065080.1	0.632	81	100	3.60E-205	Salmonella enterica	"4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase"	alpha/beta hydrolase [Salmonella enterica]EBK1875190.1 alpha/beta hydrolase [Sa
+PAGRI_01958	BAA75212.1	0.632	96.9	100	7.60E-63	Frateuria sp. ANA-18	muconolactone delta-isomerase	muconolactone isomerase [Frateuria sp. ANA-18]
+PAGRI_01959	BAA75213.1	0.632	96.6	94	5.30E-226	Frateuria sp. ANA-18	cytochrome P450	electron transfer protein [Frateuria sp. ANA-18]
+PAGRI_02010	WP_192155702.1	0.632	78.4	99	3.60E-73	Rhodanobacter sp. 7MK24	hypothetical protein	hypothetical protein [Rhodanobacter sp. 7MK24]MBD8879920.1 hypothetical protein
+PAGRI_02043	TMH76014.1	0.842	76.9	96	3.90E-175	Betaproteobacteria bacterium	hydrolase	alpha/beta hydrolase [Betaproteobacteria bacterium]
+PAGRI_02064	WP_158157669.1	0.633	64.9	99	5.40E-85	Pseudomonas fluorescens	TetR family transcriptional regulator	TetR family transcriptional regulator C-terminal domain-containing protein [Pseu
+PAGRI_02067	WP_044873009.1	0.633	53.5	98	1.20E-107	Pseudomonas sp. LFM046	hypothetical protein	LysR family transcriptional regulator [Pseudomonas sp. LFM046]
+PAGRI_02068	KAB0494748.1	0.633	86.7	95	2.00E-261	Pseudomonas vancouverensis	hypothetical protein	Rieske 2Fe-2S domain-containing protein [Pseudomonas vancouverensis]TDB59414.1 
+PAGRI_02069	WP_166363329.1	0.633	85.6	100	0.00E+00	Pseudomonas sp. PS24	3-oxosteroid 1-dehydrogenase	FAD-dependent oxidoreductase [Pseudomonas sp. PS24]
+PAGRI_02070	WP_084421540.1	0.631	42.7	93	2.40E-93	Henriciella litoralis	Rieske iron-sulfur domain-containing protein	Rieske 2Fe-2S domain-containing protein [Henriciella litoralis]
+PAGRI_02082	WP_020518925.1	0.488	48.1	92	8.50E-105	Catelliglobosispora koreensis	hypothetical protein	family 16 glycosylhydrolase [Catelliglobosispora koreensis]
+PAGRI_02105	BCG94930.1	0.632	84	100	8.90E-74	Mesorhizobium sp. 131-2-1	Putative aminoacrylate peracid reductase RutC	enamine deaminase RidA [Mesorhizobium sp. 131-2-1]
+PAGRI_02107	WP_100944174.1	0.633	64.5	91	2.30E-78	Pseudomonas sp. QS1027	hypothetical protein	hypothetical protein [Pseudomonas sp. QS1027]
+PAGRI_02371	WP_004999817.1	0.631	51.3	91	3.00E-287	Nitrococcus mobilis	Aculeacin-A acylase	penicillin acylase family protein [Nitrococcus mobilis]EAR21801.1 probable acul
+PAGRI_02475	TWB98415.1	0.632	47.8	95	3.10E-70	Bradyrhizobium macuxiense	hypothetical protein	carbon-monoxide dehydrogenase medium subunit [Bradyrhizobium macuxiense]
+PAGRI_02513	WP_173764529.1	0.767	87.9	99	0.00E+00	Azoarcus sp. M9-3-2	methylmalonic acid semialdehyde dehydrogenase	CoA-acylating methylmalonate-semialdehyde dehydrogenase [Azoarcus sp. M9-3-2]QI
+PAGRI_02547	WP_149253116.1	0.632	84.5	100	1.50E-191	Labrys sp. KNU-23	sugar ABC transporter membrane protein	ribose ABC transporter permease [Labrys sp. KNU-23]QEN88902.1 ribose ABC transp
+PAGRI_02548	WP_068292626.1	0.632	87.3	100	0.00E+00	Labrys sp. WJW	sugar ABC transporter ATP-binding protein	sugar ABC transporter ATP-binding protein [Labrys sp. WJW]OCC02498.1 D-xylose A
+PAGRI_02549	WP_187829544.1	0.632	80.2	98	4.10E-290	Labrys sp. KNU-23	mannitol dehydrogenase	mannitol dehydrogenase family protein [Labrys sp. KNU-23]
+PAGRI_02550	WP_158817687.1	0.632	83.1	100	4.60E-189	Methylocapsa sp. S129	"sugar ABC transport system, lipoprotein"	substrate-binding domain-containing protein [Methylocapsa sp. S129]
+PAGRI_02551	WP_158817686.1	0.632	76.4	99	1.70E-179	Methylocapsa sp. S129	ribose operon repressorsubstrate-binding domain-containing protein [Methylocapsa sp. S129]	
+PAGRI_02555	QKJ88714.1	0.678	74.3	99	3.80E-234	Erwiniaceae bacterium PD-1	major facilitator transporter	MFS transporter [Erwiniaceae bacterium PD-1]
+PAGRI_02645	PCE26441.1	0.633	91.9	100	3.20E-286	Pseudomonas acidophila	sensor kinase	histidine kinase [Pseudomonas acidophila]
+PAGRI_02646	PCE26440.1	0.633	96.9	100	9.70E-151	Pseudomonas acidophila	response regulator protein	DNA-binding response regulator [Pseudomonas acidophila]
+PAGRI_02647	PCE26439.1	0.633	94.7	100	1.70E-288	Pseudomonas acidophila	citrate-proton symporteMFS transporter [Pseudomonas acidophila]	
+PAGRI_03471	WP_056607772.1	0.632	39.6	103	2.10E-74	Rhodanobacter sp. Root627	hypothetical protein	GDSL family lipase [Rhodanobacter sp. Root627]KRA31700.1 GDSL family lipase [Rh
+PAGRI_03489	WP_111312241.1	0.631	48.8	98	3.90E-164	Haemophilus parahaemolyticus	L-aspartate oxidase	FAD-binding protein [Haemophilus parahaemolyticus]RDF05856.1 FAD-binding protei
+PAGRI_03493	WP_112317943.1	0.633	93.7	96	2.60E-108	Pseudomonas sp. MDMC224	hypothetical protein	"hypothetical protein, partial [Pseudomonas sp. MDMC224]RAR26901.1 hypothetical "
+PAGRI_04192	WP_132924800.1	0.632	90.2	100	6.00E-199	Sodalis sp. 159R	AraC family transcriptional regulator	GlxA family transcriptional regulator [Sodalis sp. 159R]TCL05867.1 AraC family 
+PAGRI_04375	WP_144410178.1	0.735	55.8	95	1.30E-29	Chromobacterium vaccinii	hypothetical protein	hypothetical protein [Chromobacterium vaccinii]
+PAGRI_04461	PIR25784.1	0.562	38.1	94	1.40E-36	Candidatus Brennerbacteria bacterium CG11_big_fil_rev_8_21_14_0_20_43_10	Orotate phosphoribosyltransferase	hypothetical protein COV41_02650 [Candidatus Brennerbacteria bacterium CG11_big_
+PAGRI_04462	KKQ83029.1	0.562	54.4	99	1.60E-204	Candidatus Daviesbacteria bacterium GW2011_GWF2_38_7	GMP synthase	Glutamine-hydrolyzing GMP synthase [Candidatus Daviesbacteria bacterium GW2011_G
+PAGRI_04463	OGA52794.1	0.842	60.7	92	3.30E-56	Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_62_58	hypothetical protein	hypothetical protein A3F74_15125 [Betaproteobacteria bacterium RIFCSPLOWO2_12_FU
+PAGRI_04464	KPQ11722.1	0.678	41.7	87	2.00E-54	Salinarimonadaceae bacterium HL-109	hypothetical protein	EamA-like transporter family [Salinarimonadaceae bacterium HL-109]SCC80192.1 Ea
+PAGRI_04513	WP_188342828.1	0.632	84.6	99	1.60E-226	Phyllobacterium sp. 628	oxygenase	FAD-dependent monooxygenase [Phyllobacterium sp. 628]QND52755.1 hypothetical pr
+PAGRI_04514	PYF59339.1	0.616	61.2	101	4.50E-87	Ensifer sp. AP48	hypothetical protein	putative glyoxalase superfamily protein PhnB [Ensifer sp. AP48]
+PAGRI_04519	TMA75213.1	0.842	65.1	97	8.40E-47	Deltaproteobacteria bacterium	hypothetical protein	winged helix-turn-helix transcriptional regulator [Deltaproteobacteria bacterium
+PAGRI_04520	WP_158789732.1	0.421	65.5	83	2.90E-68	Granulicella sp. L46	hypothetical protein	SRPBCC domain-containing protein [Granulicella sp. L46]
+PAGRI_04521	WP_176415457.1	0.605	69.2	99	2.90E-88	Myxococcus sp. AM010	putative protein YyaP	dihydrofolate reductase family protein [Myxococcus sp. AM010]NVJ13088.1 dihydro
+PAGRI_04543	WP_107395333.1	0.631	61.7	97	1.40E-114	Sphingomonas fennica	dehydrogenase	SDR family NAD(P)-dependent oxidoreductase [Sphingomonas fennica]PTD19032.1 sho
+PAGRI_04544	WP_167107868.1	0.631	56.7	98	1.60E-71	Sphingomonas oligoaromativorans	hypothetical protein	TetR/AcrR family transcriptional regulator C-terminal domain-containing protein 
+PAGRI_04584	WP_014264271.1	0.421	83.6	98	3.40E-104	Granulicella mallensis	Putative acetyltransferase	sugar O-acetyltransferase [Granulicella mallensis]AEU35390.1 Galactoside O-acet
+PAGRI_04592	WP_092081382.1	0.632	76.6	100	2.60E-100	Bradyrhizobium sp. R5	hypothetical protein	TetR/AcrR family transcriptional regulator [Bradyrhizobium sp. R5]SDC93249.1 tr
+PAGRI_04603	OGA10806.1	0.842	84.8	99	4.10E-94	Betaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_69_13hypothetical protein	transcriptional regulator [Betaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_69_	
+PAGRI_04669	WP_149131127.1	0.632	65.4	98	3.60E-202	Bosea sp. F3-2	exported histidine ammonia-lyasaromatic amino acid lyase [Bosea sp. F3-2]QEL23846.1 hypothetical protein FQV39	
+PAGRI_04692	WP_099445377.1	0.631	67.7	92	1.10E-92	Caulobacter sp. BP25	hypothetical protein	HD domain-containing protein [Caulobacter sp. BP25]PHY17501.1 phosphohydrolase 
+PAGRI_04694	WP_159005340.1	0.632	39.2	95	5.30E-60	Bradyrhizobium sp. S69	IclR family transcriptional regulator	helix-turn-helix domain-containing protein [Bradyrhizobium sp. S69]
+PAGRI_04695	GGG28224.1	0.631	50.2	96	9.30E-213	Caldovatus sediminis	Trans-feruloyl-CoA synthase FCS1	acyl-CoA synthetase [Caldovatus sediminis]
+PAGRI_04696	RUQ72189.1	0.631	51.3	86	1.60E-34	Azospirillum doebereinerae	hypothetical protein	hypothetical protein EJ913_11600 [Azospirillum doebereinerae]
+PAGRI_04697	WP_185909757.1	0.631	50.3	100	5.50E-39	Azospirillum doebereinerae	hypothetical protein	MaoC family dehydratase N-terminal domain-containing protein [Azospirillum doebe
+PAGRI_04700	WP_152105734.1	0.632	54.5	98	3.10E-114	Plesiomonas shigelloides	LysR family transcriptional regulator	LysR family transcriptional regulator [Plesiomonas shigelloides]KAB7659057.1 Ly
+PAGRI_04740	PCE27750.1	0.633	69.4	84	1.00E-91	Pseudomonas acidophila	TetR family transcriptional regulator	TetR family transcriptional regulator [Pseudomonas acidophila]
+PAGRI_04741	WP_146687266.1	0.632	83	98	5.20E-305	Bradyrhizobium canariense	12-dehydrotetracycline 5-monooxygenase/anhydrotetracycline 6-monooxygenase	FAD-dependent monooxygenase [Bradyrhizobium canariense]SDS49864.1 2-polyprenyl-
+PAGRI_04764	WP_136660080.1	0.632	55.8	99	4.80E-182	Nitratireductor sp. XY-223	hypothetical protein	FAD-binding oxidoreductase [Nitratireductor sp. XY-223]
+PAGRI_04765	WP_199056443.1	0.632	66.3	89	1.30E-147	Ochrobactrum sp. Q0168	hypothetical protein	ABC transporter substrate-binding protein [Ochrobactrum sp. Q0168]MBJ6133234.1 
+PAGRI_04770	WP_170012118.1	0.632	72.6	94	1.10E-193	Starkeya sp. ORNL1	L-lactate dehydrogenaseL-lactate dehydrogenase [Starkeya sp. ORNL1]QJP13951.1 alpha-hydroxy-acid oxidi	
+PAGRI_04947	WP_186643292.1	0.633	80.7	92	4.90E-64	Pseudomonas sp. SWRI102	hypothetical protein	VOC family protein [Pseudomonas sp. SWRI102]MBC3395614.1 VOC family protein [Ps
+PAGRI_05034	WP_192224904.1	0.633	30.7	70	1.40E-28	Pseudomonas sp. PDM19	hypothetical protein	O-antigen ligase family protein [Pseudomonas sp. PDM19]MBD9632588.1 O-antigen l
+PAGRI_05039	PIP03786.1	0.842	35.2	85	1.10E-66	Zetaproteobacteria bacterium CG23_combo_of_CG06-09_8_20_14_all_54_7	Endoglucanase C307	hypothetical protein COX55_00170 [Zetaproteobacteria bacterium CG23_combo_of_CG0
+PAGRI_05044	WP_013512151.1	0.632	38.3	100	1.90E-83	Pantoea sp. At-9b	hypothetical protein	glycosyltransferase family 4 protein [Pantoea sp. At-9b]ADU72322.1 glycosyl tra
+PAGRI_05139	WP_111261606.1	0.633	75.6	74	7.20E-89	Pseudomonas sp. 57B-090624	hypothetical protein	helix-turn-helix transcriptional regulator [Pseudomonas sp. 57B-090624]PZE12881
+PAGRI_05221	WP_171217385.1	0.632	70.7	100	1.10E-55	Enterovirga sp. DB1703	hypothetical protein	hypothetical protein [Enterovirga sp. DB1703]NNM71854.1 hypothetical protein [E
+PAGRI_05664	WP_176184313.1	0.488	52.7	72	2.20E-162	Kitasatospora sp. NA04385	hypothetical protein	hypothetical protein [Kitasatospora sp. NA04385]QKW17726.1 hypothetical protein
+PAGRI_05816	WP_045490277.1	0.633	34	97	1.00E-63	Pseudomonas sp. StFLB209	hypothetical protein	hypothetical protein [Pseudomonas sp. StFLB209]BAP44608.1 transcriptional regul
+PAGRI_05991	WP_147081622.1	0.632	46	98	1.20E-80	Methylobacterium haplocladii	hypothetical protein	DUF1311 domain-containing protein [Methylobacterium haplocladii]GEP01377.1 hypo
+PAGRI_05992	WP_158823467.1	0.421	34.9	98	9.30E-48	Granulicella sp. S156	hypothetical protein	hypothetical protein [Granulicella sp. S156]
+PAGRI_05993	WP_088966144.1	0.767	84.9	99	0.00E+00	Vogesella sp. LIG4	hypothetical protein	nicotinate phosphoribosyltransferase [Vogesella sp. LIG4]SCK14491.1 nicotinamid
+PAGRI_06008	WP_184671797.1	0.632	82.8	100	9.00E-297	Rhodanobacter sp. A1T4	12-dehydrotetracycline 5-monooxygenase/anhydrotetracycline 6-monooxygenase	FAD-dependent monooxygenase [Rhodanobacter sp. A1T4]MBB6247789.1 2-polyprenyl-6
+PAGRI_06080	PCE26686.1	0.633	91.9	100	4.50E-61	Pseudomonas acidophila	hypothetical protein	addiction module protein [Pseudomonas acidophila]
+PAGRI_06300	WP_174512130.1	0.632	43.9	87	3.70E-75	Methylocella tundrae	hypothetical protein	DUF1176 domain-containing protein [Methylocella tundrae]VTZ27621.1 conserved ex
+PAGRI_06854	WP_147151549.1	0.631	81.7	99	2.10E-174	Reyranella soli	LysR family transcriptional regulator	LysR family transcriptional regulator [Reyranella soli]GEP57173.1 transcription
+PAGRI_06888	WP_136505942.1	0.616	91.1	100	4.20E-80	Ensifer sp. MPMI2T	hypothetical protein	VOC family protein [Ensifer sp. MPMI2T]THK38387.1 VOC family protein [Ensifer s
+PAGRI_06889	WP_188798132.1	0.632	81.3	97	1.20E-232	Dyella caseinilytica	hypothetical protein	FAD-dependent oxidoreductase [Dyella caseinilytica]
+PAGRI_06954	WP_128561263.1	0.632	60.4	98	1.10E-180	Methylobacterium crusticola	permease transmembrane protein	MFS transporter [Methylobacterium crusticola]
+PAGRI_07011	WP_078473415.1	0.633	74.3	95	1.30E-129	Pseudomonas sp. MF4836	lipoprotein	ABC transporter substrate-binding protein [Pseudomonas sp. MF4836]OOV90541.1 me
+PAGRI_07026	WP_049113560.1	0.632	61.5	99	7.70E-158	Klebsiella michiganensis	hypothetical protein	hypothetical protein [Klebsiella michiganensis]
+PAGRI_07027	WP_077506440.1	0.633	71.5	99	1.20E-141	Pseudomonas sp. A25(2017)	"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase"	alpha/beta hydrolase [Pseudomonas sp. A25(2017)]OOG86158.1 alpha/beta hydrolase
+PAGRI_07053	WP_188346192.1	0.632	84.8	98	4.20E-254	Phyllobacterium sp. 628	Esterase FrsA	alpha/beta hydrolase [Phyllobacterium sp. 628]QND54671.1 alpha/beta hydrolase [
+PAGRI_07054	WP_188346193.1	0.632	67.3	100	1.30E-93	Phyllobacterium sp. 628	DNA-binding protein	helix-turn-helix domain-containing protein [Phyllobacterium sp. 628]QND54672.1 
+PAGRI_07086	PCE23175.1	0.633	75	98	1.30E-125	Pseudomonas acidophila	DeoR family transcriptional regulator	DeoR family transcriptional regulator [Pseudomonas acidophila]
+PAGRI_07091	WP_168078189.1	0.488	54.8	100	0.00E+00	Planosporangium flavigriseum	4-methylaminobutanoate oxidase (formaldehyde-forming)	FAD-dependent oxidoreductase [Planosporangium flavigriseum]NJC66051.1 FAD-depen
+PAGRI_07115	WP_166299962.1	0.632	77.7	96	2.90E-73	Bradyrhizobium sp. 2S1	hypothetical protein	cupin domain-containing protein [Bradyrhizobium sp. 2S1]NVI58438.1 cupin domain
+PAGRI_07116	WP_159011827.1	0.632	65.3	99	3.00E-107	Bradyrhizobium sp. S69	AraC family transcriptional regulator	helix-turn-helix domain-containing protein [Bradyrhizobium sp. S69]
+PAGRI_07156	OKO92159.1	0.632	66.4	97	4.10E-66	Bradyrhizobium sp. NAS80.1	oxidoreductase subunit alpha	hypothetical protein AC629_01080 [Bradyrhizobium sp. NAS80.1]
+PAGRI_07159	ADN26548.1	0.633	62.3	99	3.70E-144	Pseudomonas putida S16	hypothetical protein	hypothetical protein [Pseudomonas putida S16]PBJ10835.1 Alpha/beta hydrolase fa
+PAGRI_07162	WP_190828238.1	0.633	48.5	70	3.30E-32	Pseudomonas sp. JM0905a	Ycf48-like protein	glycosyl hydrolase [Pseudomonas sp. JM0905a]MBD2836483.1 glycosyl hydrolase [Ps
+PAGRI_07165	WP_067590078.1	0.488	33.8	72	2.40E-08	Nocardia terpenica	hypothetical protein	TetR/AcrR family transcriptional regulator [Nocardia terpenica]KZM73199.1 TetR 
+PAGRI_07174	WP_153031272.1	0.488	65.7	96	2.00E-187	Amycolatopsis sp. YIM 10	galactonate dehydratase	mandelate racemase [Amycolatopsis sp. YIM 10]QFU88597.1 D-galactonate dehydrata
+PAGRI_07176	WP_072386488.1	0.632	49	90	3.90E-76	Hyphomicrobium sp. CS1BSMeth3	Bicarbonate transport system permease protein CmpB	ABC transporter permease [Hyphomicrobium sp. CS1BSMeth3]
+PAGRI_07178	WP_113644286.1	0.488	45.9	85	3.60E-46	Prauserella sp. PE36	GntR family transcriptional regulator	GntR family transcriptional regulator [Prauserella sp. PE36]RBM14761.1 GntR fam
+PAGRI_07179	SDR32565.1	0.742	59.4	96	9.20E-98	Rhizobiales bacterium GAS113	dehydrogenase	D-xylose dehydrogenase [Rhizobiales bacterium GAS113]SED24131.1 D-xylose dehydr
+PAGRI_07180	TMH15166.1	0.842	59	99	2.70E-125	Betaproteobacteria bacterium	senescence marker protein-30 (SMP-30) family protein	SMP-30/gluconolactonase/LRE family protein [Betaproteobacteria bacterium]
+PAGRI_07182	ATU72820.1	0.631	62	94	7.20E-153	Komagataeibacter xylinus	hypothetical protein	purine nucleoside permease [Komagataeibacter xylinus]EGG76778.1 hypothetical pr
+PAGRI_07199	WP_092859865.1	0.631	50.9	97	2.30E-217	Albimonas pacifica	Trans-feruloyl-CoA synthase FCS1	acetate--CoA ligase family protein [Albimonas pacifica]SFI19426.1 6-carboxyhexa
+PAGRI_07310	CRL82565.1	0.488	30.6	76	4.30E-10	Mycolicibacter nonchromogenicus	hypothetical protein	hypothetical protein CPGR_05787 [Mycolicibacter nonchromogenicus]
+PAGRI_07327	BBU68747.1	0.823	65	98	0.00E+00	Rhodocyclaceae bacterium ICHIAU1	hypothetical protein	hypothetical protein ICHIAU1_10300 [Rhodocyclaceae bacterium ICHIAU1]BBU72100.1
+PAGRI_07328	WP_177081853.1	0.633	62.1	99	0.00E+00	Pseudomonas sp. D5002	hypothetical protein	helicase [Pseudomonas sp. D5002]NWB12222.1 helicase [Pseudomonas sp. D5002]
+PAGRI_07352	WP_136172932.1	0.631	67.6	95	6.90E-89	Sphingopyxis sp. PAMC25046	HTH-type transcriptional regulator CymR	TetR/AcrR family transcriptional regulator [Sphingopyxis sp. PAMC25046]QCB53035
+PAGRI_07353	WP_166938203.1	0.631	58.6	92	1.90E-99	Sphingopyxis panaciterrae	Ferri-bacillibactin esterase BesA	alpha/beta hydrolase [Sphingopyxis panaciterrae]NIJ35649.1 hypothetical protein
+PAGRI_07354	WP_082006572.1	0.631	75.9	98	4.80E-254	Sphingomonas sp. ERG5	amidase	hypothetical protein [Sphingomonas sp. ERG5]
+PAGRI_07357	PCE22628.1	0.633	78.2	99	5.0e-311	Pseudomonas acidophila	Long-chain-fatty-acid--CoA ligase	long-chain-fatty-acid--CoA ligase [Pseudomonas acidophila]
+PAGRI_07496	WP_151128663.1	0.63	94	98	5.50E-157	Geobacter sp. Red96	hypothetical protein	dihydrofolate reductase [Geobacter sp. Red96]KAB0665184.1 dihydrofolate reducta
+PAGRI_07563	WP_013558707.1	0.421	35.2	89	6.10E-35	Anaerolinea thermophila	hypothetical protein	phosphotransferase [Anaerolinea thermophila]BAJ62310.1 hypothetical protein ANT
+PAGRI_07564	TET59506.1	0.562	45.1	81	2.80E-47	Candidatus Stahlbacteria bacterium	hypothetical protein	class I SAM-dependent methyltransferase [Candidatus Stahlbacteria bacterium]

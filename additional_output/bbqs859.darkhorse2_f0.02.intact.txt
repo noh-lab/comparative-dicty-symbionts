@@ -1,0 +1,110 @@
+PBONN_00009	WP_033888340.1	0.641	61.7	100	3.30E-195	Pseudomonas aeruginosa	cytochrome c subunit II	cytochrome c [Pseudomonas aeruginosa]MBH3844997.1 cytochrome c [Pseudomonas aer
+PBONN_00010	CDH70912.1	0.641	76.5	99	0.00E+00	Pseudomonas aeruginosa MH38	oxidoreductase subunit beta	hypothetical protein P38_2647 [Pseudomonas aeruginosa MH38]
+PBONN_00011	WP_023436088.1	0.641	81.4	93	1.50E-88	Pseudomonas aeruginosa	oxidoreductase subunit alpha	(2Fe-2S)-binding protein [Pseudomonas aeruginosa]ESR68499.1 (2Fe-2S)-binding pr
+PBONN_00115	GFZ98815.1	0.639	50.2	95	5.40E-100	Dyella caseinilytica	hypothetical protein	hypothetical protein GCM10011408_19340 [Dyella caseinilytica]
+PBONN_00116	WP_115496033.1	0.639	59.4	89	7.70E-57	Dyella monticola	hypothetical protein	DUF3304 domain-containing protein [Dyella monticola]RDS80887.1 DUF3304 domain-c
+PBONN_00117	WP_115496033.1	0.639	58.8	85	3.60E-55	Dyella monticola	hypothetical protein	DUF3304 domain-containing protein [Dyella monticola]RDS80887.1 DUF3304 domain-c
+PBONN_00125	WP_140920026.1	0.639	37.8	76	2.20E-10	Pragia sp. CF-509	hypothetical protein	MliC family protein [Pragia sp. CF-509]
+PBONN_00155	TAH46386.1	0.849	67.9	92	2.20E-50	Betaproteobacteria bacterium	hypothetical protein	"putative toxin-antitoxin system toxin component, PIN family [Betaproteobacteria "
+PBONN_00233	WP_129354023.1	0.606	75.2	81	9.60E-81	Sorangium cellulosum	hypothetical protein	hypothetical protein [Sorangium cellulosum]AUX26428.1 hypothetical protein SOCE
+PBONN_00234	WP_168477744.1	0.492	61.8	96	2.40E-187	Streptomyces sp. RPA4-5	hypothetical protein	hypothetical protein [Streptomyces sp. RPA4-5]QIY54040.1 hypothetical protein H
+PBONN_00299	PCE22864.1	0.641	53.8	98	1.10E-139	Pseudomonas acidophila	flagellar hook-associated protein	flagellar hook protein FliD [Pseudomonas acidophila]
+PBONN_00343	WP_173966611.1	0.425	39.5	82	1.20E-50	Flavobacterium collinsii	Tol-Pal system protein TolB	PD40 domain-containing protein [Flavobacterium collinsii]CAA9199321.1 Tol-Pal s
+PBONN_00707	WP_143347846.1	0.639	46.5	89	1.30E-126	Enterobacter asburiae	hypothetical protein	hypothetical protein [Enterobacter asburiae]BBJ65406.1 hypothetical protein EAS
+PBONN_00712	WP_143477842.1	0.772	49.9	100	6.20E-133	Pseudogulbenkiania subflava	hypothetical protein	flagellin lysine-N-methylase [Pseudogulbenkiania subflava]SMF40220.1 lysine-N-m
+PBONN_00721	WP_128898743.1	0.639	70.4	93	4.60E-36	Dyella sp. M7H15-1	hypothetical protein	flagellar motor switch protein FliN [Dyella sp. M7H15-1]QAU24284.1 flagellar mo
+PBONN_00725	WP_128898745.1	0.639	62.5	100	4.00E-72	Dyella sp. M7H15-1	Flagellin	Lateral flagellin [Dyella sp. M7H15-1]QAU24286.1 Lateral flagellin [Dyella sp. 
+PBONN_00730	WP_192555448.1	0.639	51.4	100	1.40E-24	Dyella sp. 7MK23	Flagellar hook-basal body complex protein FliE	flagellar hook-basal body complex protein FliE [Dyella sp. 7MK23]MBE1160597.1 f
+PBONN_00734	WP_192283562.1	0.639	77.7	97	7.20E-240	Xanthomonas sp. XNM01	flagellum-specific ATP synthase	FliI/YscN family ATPase [Xanthomonas sp. XNM01]MBD9370928.1 FliI/YscN family AT
+PBONN_00735	WP_128898757.1	0.639	45.9	97	3.70E-23	Dyella sp. M7H15-1	hypothetical protein	flagellar export protein FliJ [Dyella sp. M7H15-1]QAU24298.1 flagellar export p
+PBONN_00740	WP_128898752.1	0.639	43.9	102	7.40E-32	Dyella sp. M7H15-1	hypothetical protein	flagellar basal body-associated FliL family protein [Dyella sp. M7H15-1]QAU2429
+PBONN_00743	WP_128898749.1	0.639	48.6	70	1.30E-81	Dyella sp. M7H15-1	hypothetical protein	OmpA family protein [Dyella sp. M7H15-1]QAU24290.1 histidine kinase [Dyella sp.
+PBONN_00828	WP_174149049.1	0.636	55.1	100	3.60E-123	Leisingera sp. ANG59	glycine betaine/L-proline transport ATP-binding protein	betaine/proline/choline family ABC transporter ATP-binding protein [Leisingera s
+PBONN_00830	OMH29158.1	0.638	49.4	91	1.00E-113	Motiliproteus sp. MSK22-1	hypothetical protein	hypothetical protein BGP75_20665 [Motiliproteus sp. MSK22-1]
+PBONN_00831	WP_165165842.1	0.636	67.5	96	1.60E-160	Nordella sp. HKS 07	monooxygenase	LLM class flavin-dependent oxidoreductase [Nordella sp. HKS 07]QIG46517.1 LLM c
+PBONN_00834	WP_170971387.1	0.636	49	90	1.40E-38	Mesorhizobium sp. GR13	4-hydroxyphenylacetate 3-monooxygenase reductase component	flavin reductase [Mesorhizobium sp. GR13]
+PBONN_00881	WP_198853669.1	0.424	32	85	4.40E-34	Alicyclobacillus sp. SO9	hypothetical protein	acyltransferase family protein [Alicyclobacillus sp. SO9]QQE80941.1 acyltransfe
+PBONN_00944	WP_192225761.1	0.641	50	92	5.90E-73	Pseudomonas sp. PDM19	fimbria-related chaperone	fimbria/pilus periplasmic chaperone [Pseudomonas sp. PDM19]MBD9634545.1 fimbria
+PBONN_01021	TMI02908.1	0.849	70.6	100	1.40E-52	Betaproteobacteria bacterium	hypothetical protein	DUF1272 domain-containing protein [Betaproteobacteria bacterium]
+PBONN_01024	PCE27822.1	0.641	87.3	83	3.50E-101	Pseudomonas acidophila	dihydrofolate reductasediacylglycerol kinase [Pseudomonas acidophila]	
+PBONN_01099	KAF0161496.1	0.828	61.8	98	6.00E-18	Rhodocyclaceae bacterium	hypothetical protein	hypothetical protein FD157_4128 [Rhodocyclaceae bacterium]TNC99545.1 hypothetic
+PBONN_01134	QKJ87969.1	0.685	75.5	87	2.00E-109	Erwiniaceae bacterium PD-1	Major phosphate-irrepressible acid phosphatase	phosphatase PAP2 family protein [Erwiniaceae bacterium PD-1]
+PBONN_01280	PCE26950.1	0.641	83.3	100	7.70E-68	Pseudomonas acidophila	camphor resistance protein CrcBfluoride ion transporter CrcB [Pseudomonas acidophila]	
+PBONN_01484	PCE26754.1	0.641	93	100	1.20E-294	Pseudomonas acidophila	aminotransferase	aminotransferase [Pseudomonas acidophila]
+PBONN_01504	PCE26735.1	0.641	63.6	100	0.00E+00	Pseudomonas acidophila	hypothetical protein	DNA polymerase III subunit gamma/tau [Pseudomonas acidophila]
+PBONN_01532	WP_035059652.1	0.772	45.4	93	5.50E-136	Andreprevotia chitinilytica	hypothetical protein	ShlB/FhaC/HecB family hemolysin secretion/activation protein [Andreprevotia chit
+PBONN_01600	WP_110622759.1	0.641	73.9	99	2.50E-126	Pseudomonas sp. OV286	methyltransferase	class I SAM-dependent methyltransferase [Pseudomonas sp. OV286]PYG12307.1 methy
+PBONN_01603	WP_158813436.1	0.636	56.8	92	1.30E-115	Methylocapsa sp. S129	Tellurite resistance protein TehA	C4-dicarboxylate ABC transporter [Methylocapsa sp. S129]
+PBONN_01621	WP_142803810.1	0.635	89.9	100	4.40E-43	Tepidiphilus sp. J10	hypothetical protein	methionine repressor-like protein [Tepidiphilus sp. J10]
+PBONN_01624	RTK99637.1	0.828	90.9	100	8.50E-49	Neisseriaceae bacterium	hypothetical protein	nucleotidyltransferase [Neisseriaceae bacterium]CAD24355.1 hypothetical protein
+PBONN_01631	WP_169050330.1	0.639	46	90	2.60E-91	Stenotrophomonas maltophilia	hypothetical protein	alpha/beta fold hydrolase [Stenotrophomonas maltophilia]
+PBONN_01673	WP_160620517.1	0.639	33.3	83	9.80E-103	Mixta intestinalis	hypothetical protein	filamentous hemagglutinin N-terminal domain-containing protein [Mixta intestinal
+PBONN_01703	WP_166439071.1	0.741	57.4	99	8.30E-148	Chromobacterium vaccinii	periplasmic amino acid binding transport protein	ABC transporter substrate-binding protein [Chromobacterium vaccinii]NHQ81382.1 
+PBONN_01830	SIO65040.1	0.424	33.7	84	1.20E-48	Singulisphaera sp. GP187	D-aminopeptidase	"CubicO group peptidase, beta-lactamase class C family [Singulisphaera sp. GP187]"
+PBONN_01831	SIO65040.1	0.424	32.9	85	8.70E-38	Singulisphaera sp. GP187	D-aminopeptidase	"CubicO group peptidase, beta-lactamase class C family [Singulisphaera sp. GP187]"
+PBONN_01832	WP_164012544.1	0.606	30.7	82	6.00E-30	Pyxidicoccus sp. CA060A	D-aminopeptidase	serine hydrolase [Pyxidicoccus sp. CA060A]
+PBONN_01841	QPO20846.1	0.641	32.3	72	1.30E-65	Pseudomonas sp. Y39-6	hypothetical protein	DUF2169 domain-containing protein [Pseudomonas sp. Y39-6]
+PBONN_01848	WP_152740301.1	0.641	80.9	100	8.80E-304	Pseudomonas sp. MWU12-2323	type VI secretion system protein TssC-5	type VI secretion system contractile sheath large subunit [Pseudomonas sp. MWU12
+PBONN_01902	WP_137101090.1	0.682	64.8	94	2.50E-179	Phreatobacter sp. NMCR1094	diaminobutyrate--2-oxoglutarate aminotransferase	aminotransferase class III-fold pyridoxal phosphate-dependent enzyme [Phreatobac
+PBONN_01903	KAB0268433.1	0.636	52	95	1.30E-116	Microvirga brassicacearum	Homoserine kinase	aminoglycoside phosphotransferase [Microvirga brassicacearum]
+PBONN_01904	WP_135844762.1	0.641	51.4	100	2.10E-169	Pseudomonas sp. 11K1	GntR family transcriptional regulator	PLP-dependent aminotransferase family protein [Pseudomonas sp. 11K1]QBZ89196.1 
+PBONN_01906	WP_081700711.1	0.639	26.4	71	2.10E-12	Arsenophonus nasoniae	hypothetical protein	type III secretion system effector inositol phosphate phosphatase [Arsenophonus 
+PBONN_01942	PCE23684.1	0.641	90.3	100	3.10E-221	Pseudomonas acidophila	DNA-binding/iron metalloprotein/AP endonuclease	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit
+PBONN_01969	OFZ68571.1	0.849	78.8	93	4.00E-47	Betaproteobacteria bacterium RBG_16_58_11	Antitoxin HicB	antitoxin [Betaproteobacteria bacterium RBG_16_58_11]OFZ96221.1 antitoxin [Beta
+PBONN_02014	WP_021249861.1	0.771	67.3	99	1.20E-140	Thauera terpenica	2-hydroxyacid dehydrogenase	2-hydroxyacid dehydrogenase [Thauera terpenica]EPZ15080.1 hypothetical protein 
+PBONN_02015	WP_186567772.1	0.641	57.7	100	1.10E-120	Pseudomonas sp. SWRI54	galactonokinase	2-dehydro-3-deoxygalactonokinase [Pseudomonas sp. SWRI54]MBC3352538.1 2-dehydro
+PBONN_02111	WP_002444728.1	0.639	53.3	86	1.20E-42	Shimwellia blattae	hypothetical protein	DUF4440 domain-containing protein [Shimwellia blattae]AFJ47990.1 hypothetical p
+PBONN_02153	PCE27787.1	0.641	66.1	100	1.70E-193	Pseudomonas acidophila	molybdopterin biosynthesis protein	molybdopterin molybdenumtransferase MoeA [Pseudomonas acidophila]
+PBONN_02213	PCE28733.1	0.641	82.6	100	2.30E-144	Pseudomonas acidophila	Carboxylesterase	esterase [Pseudomonas acidophila]
+PBONN_02242	TAJ93141.1	0.849	79.6	98	1.10E-106	Gammaproteobacteria bacterium	phosphoheptose isomerase	SIS domain-containing protein [Gammaproteobacteria bacterium]
+PBONN_02244	TVS17975.1	0.849	61	97	1.00E-274	Gammaproteobacteria bacterium	Histidine biosynthesis bifunctional protein HisB	HAD-IIIA family hydrolase [Gammaproteobacteria bacterium]
+PBONN_02246	WP_107676833.1	0.607	42.6	98	9.50E-305	Agrobacterium sp. LAD9	"Ubiquinone biosynthesis O-methyltransferase, mitochondrial"	glycosyltransferase [Agrobacterium sp. LAD9]
+PBONN_02266	WP_192327244.1	0.641	75	97	4.30E-36	Pseudomonas sp. PDM14	50S ribosomal protein L28	unnamed protein productMBD9483124.1 50S ribosomal protein L28 [Pseudomonas sp. 
+PBONN_02293	OJU69880.1	0.748	59.8	98	4.10E-90	Rhizobiales bacterium 63-7	3-ketoacyl-ACP reductashypothetical protein BGO05_21875 [Rhizobiales bacterium 63-7]	
+PBONN_02294	WP_119893617.1	0.641	61.8	82	2.60E-111	Pseudomonas sp. K2W31S-8	Acetoacetate decarboxylase	acetoacetate decarboxylase family protein [Pseudomonas sp. K2W31S-8]AYC32998.1 
+PBONN_02295	WP_119893615.1	0.641	60.4	96	6.90E-95	Pseudomonas sp. K2W31S-8	acetoacetate decarboxylase	acetoacetate decarboxylase family protein [Pseudomonas sp. K2W31S-8]AYC32996.1 
+PBONN_02296	WP_162934988.1	0.641	54.9	97	6.30E-138	Pseudomonas sp. K2W31S-8	periplasmic amino acid binding transport protein	ABC transporter substrate-binding protein [Pseudomonas sp. K2W31S-8]
+PBONN_02297	GEO15069.1	0.636	55.6	82	6.80E-60	Microvirga aerophila	MerR family transcriptional regulator	XRE family transcriptional regulator [Microvirga aerophila]
+PBONN_02298	WP_138784247.1	0.637	66.7	100	7.70E-132	Ochrobactrum haematophilum	amino-acid transport permease	branched-chain amino acid ABC transporter permease [Ochrobactrum haematophilum]
+PBONN_02299	WP_138784633.1	0.637	65.5	93	1.90E-133	Ochrobactrum haematophilum	transport system permease	branched-chain amino acid ABC transporter permease [Ochrobactrum haematophilum]
+PBONN_02300	WP_119893612.1	0.641	62	99	6.50E-112	Pseudomonas sp. K2W31S-8	leucine/isoleucine/valine transporter ATP-binding subunit	ABC transporter ATP-binding protein [Pseudomonas sp. K2W31S-8]AYC32993.1 ABC tr
+PBONN_02301	WP_138784245.1	0.637	69.8	99	1.10E-109	Ochrobactrum haematophilum	branched-chain amino acid ABC transporter ATP-binding subunit	ABC transporter ATP-binding protein [Ochrobactrum haematophilum]NKC05115.1 ABC 
+PBONN_02329	WP_094505919.1	0.637	68.8	91	1.80E-54	Ochrobactrum thiophenivorans	hypothetical protein	glyoxalase/bleomycin resistance/dioxygenase family protein [Ochrobactrum thiophe
+PBONN_02339	WP_172863836.1	0.639	33.2	95	6.50E-212	Hafnia sp. CBA7124	hypothetical protein	YadA-like family protein [Hafnia sp. CBA7124]
+PBONN_02401	PCE28205.1	0.641	78.3	99	2.10E-47	Pseudomonas acidophila	hypothetical protein	branched-chain amino acid transporter [Pseudomonas acidophila]
+PBONN_02488	WP_159756942.1	0.407	61.8	100	3.90E-212	Chryseobacterium sp. 18061	hypothetical protein	serine hydrolase [Chryseobacterium sp. 18061]
+PBONN_02511	WP_058069134.1	0.641	82.4	96	4.30E-60	Pseudomonas sp. TTU2014-080ASC	hypothetical protein	YnfA family protein [Pseudomonas sp. TTU2014-080ASC]KRW59026.1 hypothetical pro
+PBONN_02515	WP_182338503.1	0.639	57.3	90	0.00E+00	Stenotrophomonas tumulicola	Sensor histidine kinase RcsC	transporter substrate-binding domain-containing protein [Stenotrophomonas tumuli
+PBONN_02597	ODU52417.1	0.686	82.1	99	0.00E+00	Xanthomonadaceae bacterium SCN 69-48	hypothetical protein	hypothetical protein ABS98_03950 [Xanthomonadaceae bacterium SCN 69-48]
+PBONN_02598	ODU52418.1	0.686	82.5	100	7.40E-99	Xanthomonadaceae bacterium SCN 69-48	hypothetical protein	hypothetical protein ABS98_03955 [Xanthomonadaceae bacterium SCN 69-48]
+PBONN_02615	WP_127195577.1	0.641	67.4	100	2.70E-146	Pseudomonas sp. PAMC 29040	zinc-binding dehydrogenase	zinc-binding alcohol dehydrogenase family protein [Pseudomonas sp. PAMC 29040]R
+PBONN_02629	WP_159673016.1	0.772	58.3	98	1.40E-57	Andreprevotia sp. IGB-42	hypothetical protein	hypothetical protein [Andreprevotia sp. IGB-42]KAF0812673.1 hypothetical protei
+PBONN_02631	WP_018230903.1	0.771	26.8	97	4.90E-26	Methyloversatilis universalis	hypothetical protein	DUF2339 domain-containing protein [Methyloversatilis universalis]
+PBONN_02727	EEP97915.1	0.639	53	89	1.30E-176	Yersinia ruckeri ATCC 29473	hypothetical protein	hypothetical protein yruck0001_32460 [Yersinia ruckeri ATCC 29473]OEU25097.1 hy
+PBONN_02728	WP_192274383.1	0.639	85.7	100	3.90E-220	Pseudoxanthomonas sp. PXM01	alcohol dehydrogenase	alcohol dehydrogenase AdhP [Pseudoxanthomonas sp. PXM01]MBD9471112.1 alcohol de
+PBONN_02764	TFI15706.1	0.64	83.6	94	1.00E-193	Thiopseudomonas sp. 4R-3cl	CRISPR-associated endonuclease Cas1	type I-F CRISPR-associated endonuclease Cas1 [Thiopseudomonas sp. 4R-3cl]
+PBONN_02833	WP_139221233.1	0.636	53.1	97	7.70E-93	Bosea sp. OK403	hypothetical protein	ABC transporter permease [Bosea sp. OK403]SFI90324.1 lipopolysaccharide transpo
+PBONN_02835	WP_176597190.1	0.636	58.4	97	1.1e-312	Sphingobium sp. 15-1	D-inositol-3-phosphate glycosyltransferase	glycosyltransferase [Sphingobium sp. 15-1]
+PBONN_02836	EEG70112.1	0.492	48.2	98	5.10E-93	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505	GDP-6-deoxy-D-lyxo-4-hexulose reductase BceM	NAD dependent epimerase/dehydratase family protein [Bifidobacterium pseudocatenu
+PBONN_02852	PCE23378.1	0.641	81.1	100	1.70E-245	Pseudomonas acidophila	Hydroxysqualene dehydroxylase	hypothetical protein BWP39_27255 [Pseudomonas acidophila]
+PBONN_02857	WP_083338939.1	0.741	57.4	79	3.80E-51	Chromobacterium sphagni	hypothetical protein	inhibitor of vertebrate lysozyme family protein [Chromobacterium sphagni]
+PBONN_02858	SEL76406.1	0.639	48	90	9.00E-68	Kosakonia sacchari	putative CDP-diacylglycerol pyrophosphatase	CDP-diacylglycerol pyrophosphatase [Kosakonia sacchari]
+PBONN_02877	RUQ38059.1	0.685	44.4	96	2.00E-71	Candidatus Competibacteraceae bacterium	hypothetical protein	acyltransferase [Candidatus Competibacteraceae bacterium]
+PBONN_03020	BCP29579.1	0.492	64.1	90	8.80E-23	Mycobacterium intracellulare	hypothetical protein	hypothetical protein MINTM026_05490 [Mycobacterium intracellulare]
+PBONN_03126	PCE25917.1	0.641	75.9	100	0.00E+00	Pseudomonas acidophila	BhuR	hypothetical protein BWP39_15420 [Pseudomonas acidophila]
+PBONN_03202	WP_140428411.1	0.639	44.6	99	7.30E-98	Salmonella enterica	"Actin cross-linking toxin VgrG1type VI secretion system tip protein VgrG, partial [Salmonella enterica]"	
+PBONN_03203	WP_142969365.1	0.639	32.3	104	5.50E-20	Cronobacter sakazakii	hypothetical protein	DcrB-related protein [Cronobacter sakazakii]TQQ91258.1 DUF1795 domain-containin
+PBONN_03210	WP_129217824.1	0.636	43.3	78	9.00E-07	Lichenibacterium ramalinae	hypothetical protein	CsbD family protein [Lichenibacterium ramalinae]RYB07224.1 CsbD family protein 
+PBONN_03219	WP_070527757.1	0.772	61.5	99	3.10E-121	Jeongeupia sp. USM3	beta-lactamase precursoclass A beta-lactamase [Jeongeupia sp. USM3]AOY00032.1 class A beta-lactamase [	
+PBONN_03234	WP_139876303.1	0.771	66.3	98	8.30E-40	Candidatus Methylopumilus universalis	hypothetical protein	hypothetical protein [Candidatus Methylopumilus universalis]QDC73043.1 hypothet
+PBONN_03235	PCE22038.1	0.641	70.8	98	3.90E-209	Pseudomonas acidophila	"gamma-butyrobetaine,2-oxoglutarate dioxygenase"	gamma-butyrobetaine dioxygenase [Pseudomonas acidophila]
+PBONN_03288	OIP19550.1	0.849	81.4	99	5.60E-62	Betaproteobacteria bacterium CG2_30_59_46	hypothetical protein	alkylphosphonate utilization protein [Betaproteobacteria bacterium CG2_30_59_46]
+PBONN_03297	PCE21929.1	0.641	83.8	98	6.00E-305	Pseudomonas acidophila	glucose-6-phosphate 1-dehydrogenase	glucose-6-phosphate dehydrogenase [Pseudomonas acidophila]
+PBONN_03323	PCE24895.1	0.641	75.6	100	1.40E-80	Pseudomonas acidophila	hypothetical protein	"putative toxin-antitoxin system toxin component, PIN family [Pseudomonas acidoph"
+PBONN_03484	RZJ16380.1	0.638	55	85	2.30E-103	Haliea sp.	Regulator of RpoS	"hypothetical protein EOO54_17100, partial [Haliea sp.]"
+PBONN_03486	OYY42065.1	0.748	55.3	92	2.30E-68	Rhodospirillales bacterium 35-66-84	hypothetical protein	hypothetical protein B7Y57_12685 [Rhodospirillales bacterium 35-66-84]OYZ93846.
+PBONN_03487	WP_158732097.1	0.639	59.2	99	1.50E-137	Lysobacter sp. SYSU H10001	hypothetical protein	ATP-grasp domain-containing protein [Lysobacter sp. SYSU H10001]
+PBONN_03488	VXC46394.1	0.492	52.1	97	1.10E-176	Pseudoclavibacter sp. 8L	hypothetical protein	Glucosaminyltransferase [Pseudoclavibacter sp. 8L]
+PBONN_03491	WP_158732101.1	0.639	42	100	7.50E-136	Lysobacter sp. SYSU H10001	Sensor histidine kinase RcsC	hypothetical protein [Lysobacter sp. SYSU H10001]
+PBONN_03492	WP_158732102.1	0.639	63.4	93	4.00E-39	Lysobacter sp. SYSU H10001	two-component regulatory system sensor kinase	response regulator [Lysobacter sp. SYSU H10001]
+PBONN_03562	PCE23911.1	0.641	56.2	90	2.00E-79	Pseudomonas acidophila	LuxR family transcriptional regulator	hypothetical protein BWP39_29965 [Pseudomonas acidophila]

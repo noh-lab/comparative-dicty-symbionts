@@ -1,0 +1,120 @@
+PHAYL_00005	WP_187719545.1	0.772	85.4	90	7.60E-211	Thauera sp. CAU 1555	hypothetical protein	hypothetical protein [Thauera sp. CAU 1555]MBC9073801.1 hypothetical protein [T
+PHAYL_00006	WP_187719544.1	0.772	90.4	99	6.40E-204	Thauera sp. CAU 1555	hypothetical protein	hypothetical protein [Thauera sp. CAU 1555]MBC9073800.1 hypothetical protein [T
+PHAYL_00032	WP_033888340.1	0.643	62.4	99	8.20E-196	Pseudomonas aeruginosa	cytochrome c subunit II	cytochrome c [Pseudomonas aeruginosa]MBH3844997.1 cytochrome c [Pseudomonas aer
+PHAYL_00041	PCE26073.1	0.643	81	100	4.20E-182	Pseudomonas acidophila	methionyl-tRNA formyltransferase	methionyl-tRNA formyltransferase [Pseudomonas acidophila]
+PHAYL_00049	VFK43246.1	0.686	77.1	100	3.20E-183	Candidatus Kentron sp. TC	glycosyl transferase	Glycosyltransferase involved in cell wall bisynthesis [Candidatus Kentron sp. TC
+PHAYL_00050	WP_020294214.1	0.643	69	100	1.40E-115	Pseudomonas sp. CFII64	hypothetical protein	methyltransferase domain-containing protein [Pseudomonas sp. CFII64]EPJ75771.1 
+PHAYL_00135	TNB86756.1	0.643	82.3	100	2.90E-60	Pseudomonas sp. Fig-3	hypothetical protein	helix-turn-helix domain-containing protein [Pseudomonas sp. Fig-3]
+PHAYL_00137	WP_157662776.1	0.772	55.1	85	1.20E-30	Sulfuriferula sp. AH1	hypothetical protein	hypothetical protein [Sulfuriferula sp. AH1]
+PHAYL_00140	WP_159918258.1	0.641	70.7	96	2.30E-44	Pantoea sp. 18069	hypothetical protein	hypothetical protein [Pantoea sp. 18069]
+PHAYL_00142	WP_159918256.1	0.641	93.1	100	2.70E-52	Pantoea sp. 18069	hypothetical protein	EexN family lipoprotein [Pantoea sp. 18069]
+PHAYL_00143	WP_087448428.1	0.772	56.2	102	6.00E-53	Sulfuriferula sp. AH1	hypothetical protein	hypothetical protein [Sulfuriferula sp. AH1]ARU33020.1 hypothetical protein CAP
+PHAYL_00144	WP_064007240.1	0.64	71.8	100	2.70E-85	Methylomonas methanica	hypothetical protein	plasmid mobilization relaxosome protein MobC [Methylomonas methanica]OAI08048.1
+PHAYL_00147	OJW95359.1	0.772	85.7	99	7.80E-182	Thiobacillus sp. 65-1402	hypothetical protein	hypothetical protein BGO62_04115 [Thiobacillus sp. 65-1402]OYW62774.1 hypotheti
+PHAYL_00148	OJZ16367.1	0.772	71.7	100	3.70E-144	Thiobacillus sp. 63-78	hypothetical protein	hypothetical protein BGP20_08715 [Thiobacillus sp. 63-78]
+PHAYL_00171	WP_164043213.1	0.425	38.8	97	3.00E-07	Spirosoma agri	hypothetical protein	hypothetical protein [Spirosoma agri]NEU70065.1 hypothetical protein [Spirosoma
+PHAYL_00194	WP_176487437.1	0.612	52	95	2.30E-115	Candidatus Regiella insecticola	hypothetical protein	class II aldolase/adducin family protein [Candidatus Regiella insecticola]
+PHAYL_00197	WP_130930191.1	0.643	74.9	97	1.90E-104	Pseudomonas sp. Sample_20	hypothetical protein	hypothetical protein [Pseudomonas sp. Sample_20]
+PHAYL_00199	WP_150704710.1	0.643	65.9	99	4.60E-52	Pseudomonas fluorescens	Arabinogalactan biosynthesis recruiting protein	GtrA family protein [Pseudomonas fluorescens]VVO29845.1 Arabinogalactan biosynt
+PHAYL_00352	WP_173966611.1	0.425	38.8	87	2.90E-55	Flavobacterium collinsii	Tol-Pal system protein TolB	PD40 domain-containing protein [Flavobacterium collinsii]CAA9199321.1 Tol-Pal s
+PHAYL_00419	WP_020837751.1	0.641	99.3	100	3.70E-98	Serratia liquefaciens	hypothetical protein	hypothetical protein [Serratia liquefaciens]AGQ33534.1 hypothetical protein M49
+PHAYL_00423	RYM67153.1	0.641	95	100	9.50E-32	Serratia liquefaciens	hypothetical protein	hypothetical protein BSQ99_25140 [Serratia liquefaciens]CAB1228632.1 hypothetic
+PHAYL_00426	WP_194427031.1	0.757	78.6	100	5.60E-38	Chromobacterium sp. Rain0013	hypothetical protein	hypothetical protein [Chromobacterium sp. Rain0013]QOZ85573.1 hypothetical prot
+PHAYL_00738	WP_114847461.1	0.64	41.6	76	1.70E-264	Dyella tabacisoli	hypothetical protein	"hypothetical protein, partial [Dyella tabacisoli]RDD79734.1 hypothetical protei"
+PHAYL_00742	WP_143477842.1	0.772	49.1	100	4.70E-130	Pseudogulbenkiania subflava	hypothetical protein	flagellin lysine-N-methylase [Pseudogulbenkiania subflava]SMF40220.1 lysine-N-m
+PHAYL_00748	WP_081545807.1	0.757	57	99	1.90E-31	Chromobacterium haemolyticum	flagellar motor switch protein	flagellar motor switch protein FliN [Chromobacterium haemolyticum]OQS41529.1 fl
+PHAYL_00755	WP_192555448.1	0.64	52.3	100	3.90E-24	Dyella sp. 7MK23	Flagellar hook-basal body complex protein FliE	flagellar hook-basal body complex protein FliE [Dyella sp. 7MK23]MBE1160597.1 f
+PHAYL_00760	WP_192283562.1	0.64	78.9	94	8.40E-235	Xanthomonas sp. XNM01	flagellum-specific ATP synthase	FliI/YscN family ATPase [Xanthomonas sp. XNM01]MBD9370928.1 FliI/YscN family AT
+PHAYL_00766	WP_128898752.1	0.64	44.6	102	1.40E-34	Dyella sp. M7H15-1	hypothetical protein	flagellar basal body-associated FliL family protein [Dyella sp. M7H15-1]QAU2429
+PHAYL_00880	WP_165050630.1	0.637	58.9	92	6.70E-129	Rhodobacter sp. HX-7-19	Vitamin B12 import ATP-binding protein BtuD	betaine/proline/choline family ABC transporter ATP-binding protein [Rhodobacter 
+PHAYL_00882	OMH29158.1	0.64	50	92	2.30E-114	Motiliproteus sp. MSK22-1	hypothetical protein	hypothetical protein BGP75_20665 [Motiliproteus sp. MSK22-1]
+PHAYL_00922	RCM28470.1	0.643	64.4	71	2.80E-102	Pseudomonas aeruginosa	hypothetical protein	Site-specific recombinase XerD [Pseudomonas aeruginosa]
+PHAYL_00995	KAA0274014.1	0.64	52.9	95	1.30E-233	Aeromonas veronii	hypothetical protein	hypothetical protein FED29_20775 [Aeromonas veronii]
+PHAYL_00996	WP_136813413.1	0.636	57.5	82	2.00E-38	Desulfopila sp. IMCC35006	hypothetical protein	GtrA family protein [Desulfopila sp. IMCC35006]TKB26117.1 GtrA family protein [
+PHAYL_01025	WP_095701038.1	0.641	88.8	100	5.60E-85	Pectobacterium polaris	hypothetical protein	carboxymuconolactone decarboxylase family protein [Pectobacterium polaris]ASY81
+PHAYL_01027	WP_095993297.1	0.641	81.8	89	9.40E-79	Pectobacterium polaris	hypothetical protein	GNAT family N-acetyltransferase [Pectobacterium polaris]ASY75362.1 GNAT family 
+PHAYL_01028	WP_107168112.1	0.641	82	99	6.60E-278	Pectobacterium punjabense	GntR family transcriptional regulator	PLP-dependent aminotransferase family protein [Pectobacterium punjabense]PTA657
+PHAYL_01085	WP_197083086.1	0.757	88	94	2.30E-155	Chromobacterium sp. LK11	transmembrane protein	EamA family transporter [Chromobacterium sp. LK11]
+PHAYL_01089	WP_197083087.1	0.757	85.6	99	1.10E-213	Chromobacterium sp. LK11	anthranilate phosphoribosyltransferase	anthranilate phosphoribosyltransferase [Chromobacterium sp. LK11]
+PHAYL_01091	WP_197083089.1	0.757	86.8	95	3.80E-266	Chromobacterium sp. LK11	Diaminopimelate decarboxylase	hypothetical protein [Chromobacterium sp. LK11]
+PHAYL_01190	WP_035073226.1	0.637	38.1	93	3.60E-23	Caulobacter henricii	hypothetical protein	hypothetical protein [Caulobacter henricii]
+PHAYL_01368	WP_102304064.1	0.64	45.7	76	1.70E-46	Dyella sp. AD56	hypothetical protein	response regulator transcription factor [Dyella sp. AD56]PMQ03761.1 Transcripti
+PHAYL_01370	KAB0268433.1	0.637	50.6	95	1.50E-115	Microvirga brassicacearum	Homoserine kinase	aminoglycoside phosphotransferase [Microvirga brassicacearum]
+PHAYL_01423	WP_152740301.1	0.643	82.9	95	2.60E-298	Pseudomonas sp. MWU12-2323	type VI secretion system protein TssC-5	type VI secretion system contractile sheath large subunit [Pseudomonas sp. MWU12
+PHAYL_01433	WP_160711793.1	0.636	44.8	100	1.60E-31	Halodesulfovibrio sp. MK-HDV	type VI secretion system protein TssK-6	DUF4150 domain-containing protein [Halodesulfovibrio sp. MK-HDV]KAF1077365.1 hy
+PHAYL_01461	WP_114847461.1	0.64	34.4	89	1.90E-221	Dyella tabacisoli	hypothetical protein	"hypothetical protein, partial [Dyella tabacisoli]RDD79734.1 hypothetical protei"
+PHAYL_01517	WP_181298252.1	0.643	70.3	92	4.70E-89	Pseudomonas sp. Q2-TVG4-2	hypothetical protein	hypothetical protein [Pseudomonas sp. Q2-TVG4-2]
+PHAYL_01582	WP_017997826.1	0.637	88.6	84	5.20E-43	Paracoccus sp. N5	hypothetical protein	AlpA family phage regulatory protein [Paracoccus sp. N5]
+PHAYL_01583	WP_045727532.1	0.64	84.6	100	2.20E-38	Xanthomonas sp. GPE 39	hypothetical protein	hypothetical protein [Xanthomonas sp. GPE 39]
+PHAYL_01585	WP_017997824.1	0.637	99.2	100	2.40E-168	Paracoccus sp. N5	Protein TraL	conjugal transfer protein TraL [Paracoccus sp. N5]
+PHAYL_01588	WP_194426890.1	0.757	57.7	103	1.50E-144	Chromobacterium sp. Rain0013	hypothetical protein	P-type conjugative transfer protein TrbL [Chromobacterium sp. Rain0013]QOZ85221
+PHAYL_01590	WP_186641572.1	0.643	90.2	100	1.30E-209	Pseudomonas sp. SWRI92	hypothetical protein	hypothetical protein [Pseudomonas sp. SWRI92]MBC3377287.1 hypothetical protein 
+PHAYL_01592	WP_199154896.1	0.757	91.8	100	0.00E+00	Chromobacterium sp. ASV23	hypothetical protein	DUF2326 domain-containing protein [Chromobacterium sp. ASV23]
+PHAYL_01595	WP_124915298.1	0.641	86	100	1.80E-28	Klebsiella pneumoniae	hypothetical protein	transcriptional regulator [Klebsiella pneumoniae]RRD26862.1 transcriptional reg
+PHAYL_01596	WP_113869498.1	0.641	78.3	94	5.10E-37	Brenneria salicis	hypothetical protein	hypothetical protein [Brenneria salicis]NMN90918.1 hypothetical protein [Brenne
+PHAYL_01599	WP_096835287.1	0.641	92.3	100	5.60E-268	Escherichia coli	hypothetical protein	hypothetical protein [Escherichia coli]EFL6548253.1 hypothetical protein [Esche
+PHAYL_01601	POV85228.1	0.64	58.3	102	9.80E-33	Aeromonas sp. ASNIH8	hypothetical protein	hypothetical protein C3418_21335 [Aeromonas sp. ASNIH8]
+PHAYL_01603	WP_004085017.1	0.64	93.5	100	2.50E-53	Xylella fastidiosa	hypothetical protein	XRE family transcriptional regulator [Xylella fastidiosa]EAO13475.1 Helix-turn-
+PHAYL_01604	WP_124915296.1	0.641	89.7	100	1.40E-53	Klebsiella pneumoniae	Toxin ParE	type II toxin-antitoxin system RelE/ParE family toxin [Klebsiella pneumoniae]RR
+PHAYL_01605	WP_046668905.1	0.608	71.4	96	1.30E-25	Neorhizobium galegae	hypothetical protein	antitoxin [Neorhizobium galegae]CDZ39717.1 Protein ParD [Neorhizobium galegae b
+PHAYL_01606	WP_186427297.1	0.641	76	99	1.40E-52	Serratia grimesii	hypothetical protein	hypothetical protein [Serratia grimesii]CUW23149.1 Fels-1 Prophage Protein-like
+PHAYL_01607	WP_179979825.1	0.636	62.8	85	7.70E-58	Desulfovibrio sp. 86	hypothetical protein	GNAT family N-acetyltransferase [Desulfovibrio sp. 86]SCM71621.1 Phosphotransfe
+PHAYL_01614	RUW83086.1	0.637	48.2	84	3.60E-67	Mesorhizobium sp. M1E.F.Ca.ET.063.01.1.1	hypothetical protein	macrocin O-methyltransferase [Mesorhizobium sp. M1E.F.Ca.ET.063.01.1.1]RWF37773
+PHAYL_01700	WP_187651515.1	0.641	72.7	100	1.70E-56	Xenorhabdus sp. TS4	hypothetical protein	helix-turn-helix domain-containing protein [Xenorhabdus sp. TS4]MBC8949244.1 tr
+PHAYL_01705	WP_187651515.1	0.641	72.7	100	1.70E-56	Xenorhabdus sp. TS4	hypothetical protein	helix-turn-helix domain-containing protein [Xenorhabdus sp. TS4]MBC8949244.1 tr
+PHAYL_01718	PCE28841.1	0.643	51.9	99	4.30E-46	Pseudomonas acidophila	hypothetical protein	hypothetical protein BWP39_01210 [Pseudomonas acidophila]
+PHAYL_01757	WP_177018682.1	0.643	68.1	99	6.10E-123	Pseudomonas sp. D2002	methyltransferase	methyltransferase domain-containing protein [Pseudomonas sp. D2002]NWA86095.1 m
+PHAYL_01773	RKT43237.1	0.64	37.2	94	6.80E-57	Thiocapsa rosea	hypothetical protein	hypothetical protein BDD21_0559 [Thiocapsa rosea]
+PHAYL_01778	WP_089170064.1	0.613	89.6	95	2.00E-74	Azotobacter chroococcum	hypothetical protein	DUF86 domain-containing protein [Azotobacter chroococcum]ASL28908.1 hypothetica
+PHAYL_01815	VDR30456.1	0.641	44.2	71	3.30E-34	Raoultella terrigena	Peptidase E	Peptidase E [Raoultella terrigena]
+PHAYL_01835	PCE26697.1	0.643	81.6	99	1.40E-138	Pseudomonas acidophila	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [Pseudomonas acidophila
+PHAYL_01867	QDT75301.1	0.456	50.3	99	4.00E-49	Planctomycetes bacterium I41	acetyltransferase	hypothetical protein I41_45110 [Planctomycetes bacterium I41]
+PHAYL_02240	OYW64268.1	0.748	56	100	3.50E-99	Hydrogenophilales bacterium 12-64-13	CRISPR-associated endonuclease Cas1	hypothetical protein B7Z32_09275 [Hydrogenophilales bacterium 12-64-13]OYZ07168
+PHAYL_02241	WP_028989873.1	0.636	59.2	99	0.00E+00	Thermithiobacillus tepidarius	CRISPR-associated endonuclease Cas9	type II CRISPR RNA-guided endonuclease Cas9 [Thermithiobacillus tepidarius]
+PHAYL_02286	WP_122078435.1	0.641	37.6	76	5.00E-10	Serratia sp. P2ACOL2	hypothetical protein	helix-turn-helix domain-containing protein [Serratia sp. P2ACOL2]AYO37407.1 hel
+PHAYL_02361	WP_198729048.1	0.643	50	95	3.60E-99	Pseudomonas cichorii	HTH-type transcriptional activator RhaR	helix-turn-helix domain-containing protein [Pseudomonas cichorii]MBI6855840.1 h
+PHAYL_02363	WP_050570543.1	0.64	40	103	7.70E-19	Xanthomonas arboricola	hypothetical protein	hypothetical protein [Xanthomonas arboricola]GAE48862.1 hypothetical protein XP
+PHAYL_02368	RAS14362.1	0.772	61.6	99	0.00E+00	Microvirgula sp. AG722	"2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial"	yersiniabactin nonribosomal peptide/polyketide synthase [Microvirgula sp. AG722]
+PHAYL_02370	WP_032633822.1	0.643	60.2	95	7.00E-94	Pseudomonas syringae group	pyochelin biosynthetic protein	MULTISPECIES: thioesterase [Pseudomonas syringae group]KWS56899.1 thioesterase 
+PHAYL_02386	WP_119893617.1	0.643	62.8	97	1.40E-114	Pseudomonas sp. K2W31S-8	acetoacetate decarboxylase	acetoacetate decarboxylase family protein [Pseudomonas sp. K2W31S-8]AYC32998.1 
+PHAYL_02387	WP_119893615.1	0.643	60	96	2.00E-94	Pseudomonas sp. K2W31S-8	acetoacetate decarboxylase	acetoacetate decarboxylase family protein [Pseudomonas sp. K2W31S-8]AYC32996.1 
+PHAYL_02388	WP_162934988.1	0.643	54.5	96	7.20E-137	Pseudomonas sp. K2W31S-8	periplasmic amino acid binding transport protein	ABC transporter substrate-binding protein [Pseudomonas sp. K2W31S-8]
+PHAYL_02390	WP_138784247.1	0.637	66.8	100	1.30E-130	Ochrobactrum haematophilum	amino-acid transport permease	branched-chain amino acid ABC transporter permease [Ochrobactrum haematophilum]
+PHAYL_02412	WP_185925452.1	0.637	56.6	95	5.40E-169	Stappia sp. 28M-7	multidrug resistance protein B	MFS transporter [Stappia sp. 28M-7]MBC2860003.1 MFS transporter [Stappia sp. 28
+PHAYL_02415	WP_062787721.1	0.772	43.5	98	1.30E-215	Aquitalea pelogenes	2-succinylbenzoate--CoA ligase	acyl--CoA ligase [Aquitalea pelogenes]
+PHAYL_02416	WP_082695950.1	0.772	43.9	100	6.80E-240	Aquitalea pelogenes	hypothetical protein	polyketide synthase dehydratase domain-containing protein [Aquitalea pelogenes]
+PHAYL_02452	WP_061518907.1	0.641	70.7	88	8.70E-103	Acinetobacter venetianus	hypothetical protein	hypothetical protein [Acinetobacter venetianus]KXZ68041.1 hypothetical protein 
+PHAYL_02453	WP_164073642.1	0.64	78.8	90	6.60E-130	Stenotrophomonas maltophilia	hypothetical protein	site-specific DNA-methyltransferase [Stenotrophomonas maltophilia]
+PHAYL_02466	WP_155746391.1	0.456	73.1	96	3.40E-250	Scytonema sp. UIC 10036	"L-2,4-diaminobutyrate decarboxylase"	aspartate aminotransferase family protein [Scytonema sp. UIC 10036]MUG94611.1 a
+PHAYL_02517	WP_177431674.1	0.643	66.9	100	3.10E-70	Pseudomonas sp. MPBD7-1	hypothetical protein	GNAT family N-acetyltransferase [Pseudomonas sp. MPBD7-1]
+PHAYL_02546	WP_188517802.1	0.637	63.8	99	1.60E-90	Alsobacter metallidurans	amino acid racemase	aspartate/glutamate racemase family protein [Alsobacter metallidurans]
+PHAYL_02568	PVD40764.1	0.641	100	100	8.90E-107	Serratia liquefaciens	hypothetical protein	hypothetical protein C5188_20470 [Serratia liquefaciens]
+PHAYL_02572	WP_116691140.1	0.641	86.3	100	1.90E-40	Serratia liquefaciens	hypothetical protein	hypothetical protein [Serratia liquefaciens]PVD45788.1 hypothetical protein C51
+PHAYL_02577	WP_033941860.1	0.643	70.9	100	4.50E-257	Pseudomonas aeruginosa	Anaerobic nitric oxide reductase transcription regulator NorR	sigma-54-dependent Fis family transcriptional regulator [Pseudomonas aeruginosa]
+PHAYL_02590	WP_140236454.1	0.641	50.6	90	5.40E-20	Salmonella enterica	hypothetical protein	hypothetical protein [Salmonella enterica]ECD2674876.1 hypothetical protein [Sa
+PHAYL_02595	WP_123394521.1	0.643	69.3	100	1.10E-84	Pseudomonas protegens	hypothetical protein	hypothetical protein [Pseudomonas protegens]ROL90604.1 hypothetical protein BK6
+PHAYL_02611	WP_128897280.1	0.64	92.1	98	1.70E-52	Dyella sp. M7H15-1	hypothetical protein	DUF1778 domain-containing protein [Dyella sp. M7H15-1]QAU22778.1 DUF1778 domain
+PHAYL_02723	WP_182338503.1	0.64	58	91	0.00E+00	Stenotrophomonas tumulicola	Sensor histidine kinase RcsC	transporter substrate-binding domain-containing protein [Stenotrophomonas tumuli
+PHAYL_02742	KXK29432.1	0.425	25.1	82	3.20E-16	Candidatus Brocadia sinica	hypothetical protein	hypothetical protein UZ01_02195 [Candidatus Brocadia sinica]
+PHAYL_02744	KXK29432.1	0.425	25.4	81	1.40E-18	Candidatus Brocadia sinica	hypothetical protein	hypothetical protein UZ01_02195 [Candidatus Brocadia sinica]
+PHAYL_02808	WP_127195577.1	0.643	63.6	100	3.90E-134	Pseudomonas sp. PAMC 29040	zinc-binding dehydrogenase	zinc-binding alcohol dehydrogenase family protein [Pseudomonas sp. PAMC 29040]R
+PHAYL_02811	PCE28733.1	0.643	88.5	90	3.90E-178	Pseudomonas acidophila	Carboxylesterase	esterase [Pseudomonas acidophila]
+PHAYL_02835	EXF43084.1	0.643	32.5	79	3.90E-09	Pseudomonas sp. BAY1663	hypothetical protein	hypothetical protein BAY1663_04502 [Pseudomonas sp. BAY1663]
+PHAYL_02892	WP_177065524.1	0.643	32.7	94	5.90E-73	Pseudomonas gingeri	hypothetical protein	peptidyl-Asp metalloendopeptidase [Pseudomonas gingeri]NWA03581.1 peptidyl-Asp 
+PHAYL_02906	EEP97915.1	0.641	53.2	87	4.30E-176	Yersinia ruckeri ATCC 29473	hypothetical protein	hypothetical protein yruck0001_32460 [Yersinia ruckeri ATCC 29473]OEU25097.1 hy
+PHAYL_02907	EEP97915.1	0.641	54.6	87	1.50E-183	Yersinia ruckeri ATCC 29473	hypothetical protein	hypothetical protein yruck0001_32460 [Yersinia ruckeri ATCC 29473]OEU25097.1 hy
+PHAYL_02971	WP_128711982.1	0.643	82.5	99	9.00E-154	Pseudomonas aeruginosa	hypothetical protein	hypothetical protein [Pseudomonas aeruginosa]RUJ58001.1 hypothetical protein IP
+PHAYL_03000	WP_083338939.1	0.757	56	89	4.00E-48	Chromobacterium sphagni	Inhibitor of vertebrate lysozyminhibitor of vertebrate lysozyme family protein [Chromobacterium sphagni]	
+PHAYL_03008	WP_159671589.1	0.772	66.7	96	0.00E+00	Andreprevotia sp. IGB-42	hypothetical protein	HlyD family efflux transporter periplasmic adaptor subunit [Andreprevotia sp. IG
+PHAYL_03009	WP_153920080.1	0.643	66.7	100	3.60E-197	Pseudomonas sp. JG-B	hypothetical protein	HlyD family efflux transporter periplasmic adaptor subunit [Pseudomonas sp. JG-B
+PHAYL_03011	WP_137821883.1	0.643	74.3	89	1.70E-252	Pseudomonas sp. D(2018)	hypothetical protein	TolC family protein [Pseudomonas sp. D(2018)]
+PHAYL_03049	WP_199105652.1	0.772	55.2	97	3.50E-141	Aquitalea sp. ASV1	periplasmic amino acid binding transport protein	branched-chain amino acid ABC transporter substrate-binding protein [Aquitalea s
+PHAYL_03108	WP_114847461.1	0.64	36.6	88	8.20E-176	Dyella tabacisoli	hypothetical protein	"hypothetical protein, partial [Dyella tabacisoli]RDD79734.1 hypothetical protei"
+PHAYL_03264	WP_181053666.1	0.637	49.4	97	1.40E-48	Microvirga sp. Marseille-Q2068	aminoglycoside 6'-N-acetyltransferase	GNAT family N-acetyltransferase [Microvirga sp. Marseille-Q2068]MBA1158255.1 GN
+PHAYL_03265	WP_186002710.1	0.492	47.8	95	8.90E-70	Mycobacterium sp. KBS0706	hypothetical protein	phosphotransferase [Mycobacterium sp. KBS0706]
+PHAYL_03300	WP_056840056.1	0.643	57.1	96	3.60E-112	Pseudomonas sp. Leaf127	galactonokinase	2-dehydro-3-deoxygalactonokinase [Pseudomonas sp. Leaf127]KQQ56234.1 2-dehydro-
+PHAYL_03309	WP_139883634.1	0.641	82.5	100	1.70E-304	Buttiauxella sp. B2	ABC transport system ATP-binding protein	ABC-F family ATP-binding cassette domain-containing protein [Buttiauxella sp. B2
+PHAYL_03322	PCE22038.1	0.643	75.4	98	5.20E-223	Pseudomonas acidophila	"gamma-butyrobetaine,2-oxoglutarate dioxygenase"	gamma-butyrobetaine dioxygenase [Pseudomonas acidophila]
+PHAYL_03412	PCE24895.1	0.643	85.4	93	2.70E-82	Pseudomonas acidophila	hypothetical protein	"putative toxin-antitoxin system toxin component, PIN family [Pseudomonas acidoph"
+PHAYL_03555	PCE23643.1	0.643	66.5	100	2.60E-238	Pseudomonas acidophila	Cytochrome c6	gluconate 2-dehydrogenase [Pseudomonas acidophila]
+PHAYL_03562	WP_057941392.1	0.64	37	81	3.90E-17	Lysobacter gummosus	hypothetical protein	LysM peptidoglycan-binding domain-containing protein [Lysobacter gummosus]ALN89
