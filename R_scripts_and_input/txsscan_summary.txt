@@ -1,0 +1,16 @@
+genome	T3SS	Flagellum	pT4SSt	T6SSi
+baqs159	3	1	0	3
+bbqs859	2	2	0	2
+bhqs11	3	1	0	3
+pcale	1	1	0	2
+pfung	1	1	0	3
+pmega	1	1	0	1
+pphem	2	1	0	2
+pphex	1	1	1	2
+pphym	0	1	0	2
+pphyt	1	1	0	2
+psart	0	1	0	2
+pspre	0	1	1	4
+ptera	2	1	0	1
+ptere	1	1	1	1
+pxeno	1	1	0	0
