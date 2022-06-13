@@ -10,7 +10,7 @@ These data were generated from genome FASTA files available via NCBI. A descript
 &nbsp;
 
 ## a. *Paraburkholderia* genome selection and gene prediction
-Select the genomes you want to compare. We started with the three *D. discoideum* (dicty)-associated *Paraburkholderia* genomes and selected 12 additional *Paraburkholderia* genomes for comparative analysis with the three *D. discoideum*-associated species genomes. 
+Select the genomes you want to compare. We started with the three *D. discoideum* (dicty)-associated *Paraburkholderia* genomes and selected 12 additional *Paraburkholderia* genomes for comparative analysis.
 
 | Species | Abbreviation | RefSeq file |
 | -------- | -------- | -------- |
