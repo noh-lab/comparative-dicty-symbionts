@@ -1,10 +1,10 @@
 # Comparative genomics of *Dictyostelium discoideum*-symbiont *Paraburkholderia*
-Repository to support: Comparative genomics support *Paraburkholderia* symbionts of *Dictyostelium discoideum* amoebas have evolved to be professional symbionts adapted to their host environment
+Repository to support: Comparative genomics support reduced-genome *Paraburkholderia* symbionts of *Dictyostelium discoideum* amoebas are ancestrally adapted professional symbionts
 
 Supporting data and scripts are organized as follow:
 - shell_scripts_and_input: all scripts and input data to recreate the analysis prior to visualization
-- R_scripts_and_input: all scripts and input data to recreate visualizations and statistical tests
-- additional_output: data that were generated but were not used for visualization or statistical tests in R
+- R_scripts_and_input: all scripts and input data to recreate visualizations and statistical analyses
+- additional_output: data that were not directly used for visualizations or statistics; includes data used in the genome browser @ burk.colby.edu
 
 These data were generated from genome FASTA files available via NCBI. A descriptive version of all analyses and steps can be found below.
 &nbsp;
