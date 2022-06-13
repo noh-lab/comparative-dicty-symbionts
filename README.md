@@ -2,15 +2,15 @@
 Repository to support: Comparative genomics support reduced-genome *Paraburkholderia* symbionts of *Dictyostelium discoideum* amoebas are ancestrally adapted professional symbionts
 
 Supporting data and scripts are organized as follow:
-- shell_scripts_and_input: all scripts and input data to recreate the analysis prior to visualization
-- R_scripts_and_input: all scripts and input data to recreate visualizations and statistical analyses
+- shell_scripts_and_input: scripts and input data to recreate analyses prior to visualization
+- R_scripts_and_input: scripts and input data to recreate visualizations and statistical analyses
 - additional_output: data that were not directly used for visualizations or statistics; includes data used in the genome browser @ burk.colby.edu
 
 These data were generated from genome FASTA files available via NCBI. A descriptive version of all analyses and steps can be found below.
 &nbsp;
 
 ## a. *Paraburkholderia* genome selection and gene prediction
-We selected 12 additional *Paraburkholderia* genomes for comparative analysis with the three *D. discoideum*-associated species genomes. 
+Select the genomes you want to compare. We started with the three *D. discoideum* (dicty)-associated *Paraburkholderia* genomes and selected 12 additional *Paraburkholderia* genomes for comparative analysis with the three *D. discoideum*-associated species genomes. 
 
 | Species | Abbreviation | RefSeq file |
 | -------- | -------- | -------- |
