@@ -134,7 +134,7 @@ We used custom scripts to execute the command(s) above for all genomes:
 `prep_roary_2_fix_gff.sh`
 &nbsp;
 
-Run Roary:
+Run [Roary](http://sanger-pathogens.github.io/Roary/):
 ```
 singularity run -i -e -H /export/groups/snoh/snoh/12cont_intact/ /usr/local/singularity/roary_latest.sif roary -r -s -p 8 -i 70 *.gff
 ```
@@ -214,7 +214,7 @@ Make a database of these profiles,
 makeprofiledb -title COG.v.20200430 -in Cog.pn -out Cog -threshold 9.82 -scale 100.0 -dbtype rps -index true
 ```
 
-Run `rpsblast`, e.g.
+Run `[rpsblast](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd_help.shtml#RPSBWhat)`, e.g.
 ```
 rpsblast -query /research/snoh/data/colby/comparative_burk/prokka/baqs159/PROKKA_06192020.faa -db /research/snoh/data/colby/rpsblast/Cog -evalue 0.01 -max_target_seqs 25 -outfmt "6 qseqid sseqid evalue qcovs stitle" > rpsblast_tables/baqs159.prokka.cog
 ```
