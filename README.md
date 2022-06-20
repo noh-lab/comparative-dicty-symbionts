@@ -51,7 +51,7 @@ We used custom scripts to execute the command(s) above for all genomes:
 ### Pseudogene detections
 Use [Pseudofinder](https://github.com/filip-husnik/pseudofinder) to detect likely pseudogenes from each Prokka genbank file, e.g.
 ```
-pseudofinder.py annotate --diamond --skip_makedb -g /research/snoh/data/colby/comparative_burk/prokka/baqs159/PROKKA_06192020.gbk -db /research/snoh/diamonddb/refseq_protein_nr.dmnd -op baqs159
+pseudofinder.py annotate --diamond --skip_makedb -g PATH/prokka/baqs159/PROKKA_06192020.gbk -db PATH/diamonddb/refseq_protein_nr.dmnd -op baqs159
 ```
 
 Make a list of predicted genes that were likely pseudogenes from Pseudofinder output files, e.g.
@@ -91,7 +91,7 @@ done
 Use [progressiveMauve](https://darlinglab.org/mauve/user-guide/progressivemauve.html) to align all finished genomes at once. 
 
 ```
-progressiveMauve --output=10cont.xmfa --seed-family ../prokka/baqs159/PROKKA_06192020.fna ../prokka/bbqs859/PROKKA_06192020.fna ../prokka/bhqs11/PROKKA_06192020.fna ../prokka/pcale/PROKKA_06192020.fna ../prokka/pfung/PROKKA_06192020.fna ../prokka/pmega/PROKKA_06192020.fna ../prokka/pphex/PROKKA_06192020.fna ../prokka/pphym/PROKKA_06192020.fna ../prokka/pphyt/PROKKA_06192020.fna ../prokka/pspre/PROKKA_06192020.fna ../prokka/ptera/PROKKA_06192020.fna ../prokka/ptere/PROKKA_06192020.fna ../prokka/pxeno/PROKKA_06192020.fna &
+progressiveMauve --output=10cont.xmfa --seed-family PATH/prokka/baqs159/PROKKA_06192020.fna PATH/prokka/bbqs859/PROKKA_06192020.fna PATH/prokka/bhqs11/PROKKA_06192020.fna PATH/prokka/pcale/PROKKA_06192020.fna PATH/prokka/pfung/PROKKA_06192020.fna PATH/prokka/pmega/PROKKA_06192020.fna PATH/prokka/pphex/PROKKA_06192020.fna PATH/prokka/pphym/PROKKA_06192020.fna PATH/prokka/pphyt/PROKKA_06192020.fna PATH/prokka/pspre/PROKKA_06192020.fna PATH/prokka/ptera/PROKKA_06192020.fna PATH/prokka/ptere/PROKKA_06192020.fna PATH/prokka/pxeno/PROKKA_06192020.fna &
 ```
 
 Next, extract the LCBs. We did this for the 3 dicty-burk genomes and 4 core controls (the numbers are in the order you listed the genomes during the initial alignment):
@@ -114,7 +114,7 @@ First remove pseudogenes from each prokka gff file, e.g.
 ```
 awk '{print $1}' baqs159.prokka.ffn.fai > pagri_genes.txt
 
-awk 'NR==FNR {a[$1]; next} !($1 in a) {print}' ../pseudofinder/pagri_pseudofinder.txt pagri_genes.txt > pagri_intact.txt
+awk 'NR==FNR {a[$1]; next} !($1 in a) {print}' PATH/pseudofinder/pagri_pseudofinder.txt pagri_genes.txt > pagri_intact.txt
 
 grep -f pagri_intact.txt baqs159.prokka.gff > baqs159.prokka.intact.gff
 
@@ -123,7 +123,7 @@ grep '##' baqs159.prokka.gff | sed '$d' > head
 
 echo '##FASTA' >> baqs159.prokka.gff
 
-cat head baqs159.prokka.intact.gff ../prokka/baqs159/PROKKA_06192020.fsa > temp
+cat head baqs159.prokka.intact.gff PATH/prokka/baqs159/PROKKA_06192020.fsa > temp
 
 mv temp baqs159.prokka.intact.gff
 ```
@@ -136,12 +136,12 @@ We used custom scripts to execute the command(s) above for all genomes:
 
 Run [Roary](http://sanger-pathogens.github.io/Roary/):
 ```
-singularity run -i -e -H /export/groups/snoh/snoh/12cont_intact/ /usr/local/singularity/roary_latest.sif roary -r -s -p 8 -i 70 *.gff
+singularity run -i -e -H PATH/12cont_intact/ /usr/local/singularity/roary_latest.sif roary -r -s -p 8 -i 70 *.gff
 ```
 
 Find core genes:
 ```
-singularity run -i -e -H /export/groups/snoh/snoh/12cont_intact/ /usr/local/singularity/roary_latest.sif query_pan_genome -a intersection *gff
+singularity run -i -e -H PATH/12cont_intact/ /usr/local/singularity/roary_latest.sif query_pan_genome -a intersection *gff
 
 mkdir paraburk_core
 
@@ -180,7 +180,7 @@ These scripts execute the following steps:
 
 Compile results for each gene:
 ```
-cat model_summaries/*summary.txt > ../12cont_intact/codeml_likelihood.models.txt
+cat model_summaries/*summary.txt > PATH/12cont_intact/codeml_likelihood.models.txt
 ```
 
 In `R`, find best model for each gene and export lists of genes for each model using `codeml_parse_visualize_clean.R`.
@@ -192,7 +192,7 @@ Get model parameter estimates (kappa, w0, w1, logL) for the model that best fits
 
 Gather these parameter estimates for further analysis:
 ```
-cat model_summaries/*estimates.txt > ../12cont_intact/codeml_omega.diff1.txt
+cat model_summaries/*estimates.txt > PATH/12cont_intact/codeml_omega.diff1.txt
 ```
 
 In `R`, continue analysis with `codeml.parse_visualize_clean.R`
@@ -216,7 +216,7 @@ makeprofiledb -title COG.v.20200430 -in Cog.pn -out Cog -threshold 9.82 -scale 1
 
 Run `[rpsblast](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd_help.shtml#RPSBWhat)`, e.g.
 ```
-rpsblast -query /research/snoh/data/colby/comparative_burk/prokka/baqs159/PROKKA_06192020.faa -db /research/snoh/data/colby/rpsblast/Cog -evalue 0.01 -max_target_seqs 25 -outfmt "6 qseqid sseqid evalue qcovs stitle" > rpsblast_tables/baqs159.prokka.cog
+rpsblast -query PATH/prokka/baqs159/PROKKA_06192020.faa -db PATH/rpsblast/Cog -evalue 0.01 -max_target_seqs 25 -outfmt "6 qseqid sseqid evalue qcovs stitle" > rpsblast_tables/baqs159.prokka.cog
 ```
 
 Keep the top `rpsblast` hit and filter by qcovs>=70, and get COG number from stitle, e.g.
@@ -238,7 +238,7 @@ rm temp temp2
 
 Remove predicted pseudogenes, e.g.
 ```
-awk 'NR==FNR {a[$1]; next} !($1 in a){print $0}' ../pseudofinder/pagri_pseudofinder.txt baqs159.cog.categorized > baqs159.cog.intact.categorized
+awk 'NR==FNR {a[$1]; next} !($1 in a){print $0}' PATH/pseudofinder/pagri_pseudofinder.txt baqs159.cog.categorized > baqs159.cog.intact.categorized
 ```
 
 We used custom scripts to execute the command(s) above for all genomes:
@@ -260,7 +260,7 @@ Save results to a text file, e.g. `baqs159.blastkoala.txt`
 
 Remove predicted pseudogenes, e.g.
 ```
-awk 'NR==FNR {a[$1]; next} !($1 in a){print $0}' ../pseudofinder/pagri_pseudofinder.txt baqs159.blastkoala.txt > baqs159.blastkoala.intact.txt
+awk 'NR==FNR {a[$1]; next} !($1 in a){print $0}' PATH/pseudofinder/pagri_pseudofinder.txt baqs159.blastkoala.txt > baqs159.blastkoala.intact.txt
 ```
 
 Organize these files, e.g.
@@ -280,7 +280,7 @@ Use [GapMind](https://papers.genomics.lbl.gov/cgi-bin/gapView.cgi) to detect ami
 
 Pull multi fasta of intact proteins in each genome, e.g.
 ```
-./FastaToTbl ../roary/baqs159.prokka.v3.faa | grep -vwf ../pseudofinder/pagri_pseudofinder.txt | ./TblToFasta > baqs159.prokka.intact.faa
+./FastaToTbl PATH/roary/baqs159.prokka.v3.faa | grep -vwf PATH/pseudofinder/pagri_pseudofinder.txt | ./TblToFasta > baqs159.prokka.intact.faa
 ```
 
 Download candidates and steps from results.
@@ -305,7 +305,7 @@ cut -f 1,5,7-10 baqs159.txsscan_report.txt | sed 's/UserReplicon_//g' | sed 's/T
 while read c2; do grep -w $c2 temp1; done < reorder_ss_components.txt > baqs159.ss_components.txt
 
 # examine and remove any pseudogenes manually
-awk 'NR==FNR {a[$1]; next} ($4 in a){print}' ../pseudofinder/pagri_pseudofinder.txt baqs159.ss_components.txt
+awk 'NR==FNR {a[$1]; next} ($4 in a){print}' PATH/pseudofinder/pagri_pseudofinder.txt baqs159.ss_components.txt
 ```
 
 Manually scan the output to search for incomplete secretion systems in the genomes (not reported as complete by txsscan), that were incorrectly identified (e.g. TssC as IglB) or incorrectly disambiguated when adjacent to another secretion system. 
@@ -327,7 +327,7 @@ Get amino acid sequences of component genes for each genome, e.g.
 ```
 for gene in `echo "sctJ"`; do
     agri=$(grep "$gene" all.manual_ss_components.txt | grep AGRI | cut -f 4)
-    samtools faidx ../roary/baqs159.prokka.v3.faa `echo "$agri"` > "$gene"_manual.faa
+    samtools faidx PATH/roary/baqs159.prokka.v3.faa `echo "$agri"` > "$gene"_manual.faa
 done
 ```
 
@@ -338,7 +338,7 @@ cat sctJ.faa sctJ_from_t3enc.faa sctJ_manual.faa > sctJ_all.faa
 muscle -in sctJ_all.faa -out sctJ_t3enc.muscle.faa
 
 # fix order
-python ../../stable.py sctJ_all.faa sctJ_t3enc.muscle.faa > sctJ_all.stable.faa
+python stable.py sctJ_all.faa sctJ_t3enc.muscle.faa > sctJ_all.stable.faa
 
 # substitute names (species rather than gene)
 awk '/^>/{print ">" ++i; next}{print}' sctJ_all.stable.faa > sctJ.temp
@@ -347,7 +347,7 @@ awk 'FNR==NR{a[">"$1]=$2;next} $1 in a{sub(/[0-9]+/,a[$1])}1' t3ss_sub.txt sctJ.
 # estimate gene trees
 FastTree -lg < sctJ_all.namefix.faa > sctJ_all.lg.tre
 
-# estimate species tree
+# estimate species tree with [ASTRID](https://github.com/pranjalv123/ASTRID) and/ or [Astral](https://github.com/smirarab/ASTRAL):
 cat sct*lg.tre > t3ss.lg.infile
 ASTRID -i t3ss.lg.infile -o t3ss.lg.astrid
 Astral -i t3ss.lg.infile -o t3ss.lg.astral
@@ -388,7 +388,7 @@ Save these as a file: `known_t36se_vfdb.fa`
 Search against each dicty-burk genomes, e.g.
 ```
 # make diamond db of each genome
-diamond makedb --in ../roary/baqs159.prokka.v3.faa -d pagri
+diamond makedb --in PATH/roary/baqs159.prokka.v3.faa -d pagri
 
 # run a search in blastp mode
 diamond blastp -d pagri -q known_t36se_vfdb.fa -o pagri_t36se_matches.tsv -b8 -c1 -p 8
@@ -427,7 +427,7 @@ Create diamond database of taxonomically informative sequences `databasename_inf
 
 Run diamond BLASTP, e.g.
 ```
-diamond blastp -d /export/groups/snoh/snoh/diamonddb/snohdarkhorse_20210104_informative.dmnd -q baqs159.prokka.faa -a baqs159.prokka.daa -e1e-6 -t . -k500 -p12 -b8 -c1
+diamond blastp -d PATH/diamonddb/snohdarkhorse_20210104_informative.dmnd -q baqs159.prokka.faa -a baqs159.prokka.daa -e1e-6 -t . -k500 -p12 -b8 -c1
 
 diamond view -a baqs159.prokka.daa -f tab  -o baqs159.prokka.dh2.m8 -k500
 ```
