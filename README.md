@@ -94,7 +94,7 @@ Use [progressiveMauve](https://darlinglab.org/mauve/user-guide/progressivemauve.
 progressiveMauve --output=10cont.xmfa --seed-family PATH/prokka/baqs159/PROKKA_06192020.fna PATH/prokka/bbqs859/PROKKA_06192020.fna PATH/prokka/bhqs11/PROKKA_06192020.fna PATH/prokka/pcale/PROKKA_06192020.fna PATH/prokka/pfung/PROKKA_06192020.fna PATH/prokka/pmega/PROKKA_06192020.fna PATH/prokka/pphex/PROKKA_06192020.fna PATH/prokka/pphym/PROKKA_06192020.fna PATH/prokka/pphyt/PROKKA_06192020.fna PATH/prokka/pspre/PROKKA_06192020.fna PATH/prokka/ptera/PROKKA_06192020.fna PATH/prokka/ptere/PROKKA_06192020.fna PATH/prokka/pxeno/PROKKA_06192020.fna &
 ```
 
-Next, extract the LCBs. We did this for the 3 dicty-burk genomes and 4 core controls (the numbers are in the order you listed the genomes during the initial alignment):
+Next, extract the LCBs. We did this for the 3 dicty-burk genomes and 4 core representative paraburk genomes (the numbers are in the order you listed the genomes during the initial alignment):
 ```
 ./projectAndStrip 10cont.xmfa 10cont.4core.strip 0 1 2 4 9 11 12
 
