@@ -18,7 +18,7 @@ Select the genomes you want to compare. We started with the three *D. discoideum
 | *P. agricolaris* | PAGRI | GCF_009455635.1_ASM945563v1_genomic.fna |
 | *P. bonniea* | PBONN | GCF_009455625.1_ASM945562v1_genomic.fna |
 | *P. hayleyella* |PHAYL | GCF_009455685.1_ASM945568v1_genomic.fna |
-| ***core controls*** | 
+| ***representative paraburk*** | 
 | *P. fungorum* | PFUNG | GCF_000961515.1_ASM96151v1_genomic.fna |
 | *P. sprentiae*| PSPRE | GCF_001865575.1_ASM186557v1_genomic.fna |
 | *P. terrae* | PTERE | GCF_002902925.1_ASM290292v1_genomic.fna |
