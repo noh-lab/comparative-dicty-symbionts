@@ -1,5 +1,5 @@
 # Comparative genomics of *Dictyostelium discoideum*-symbiont *Paraburkholderia*
-Repository to support: Comparative genomics support reduced-genome *Paraburkholderia* symbionts of *Dictyostelium discoideum* amoebas are ancestrally adapted professional symbionts
+Repository to support: [Reduced and nonreduced genomes in _Paraburkholderia_ symbionts of social amoebas](https://doi.org/10.1128/msystems.00562-22)
 
 Supporting data and scripts are organized as follow:
 - shell_scripts_and_input: scripts and input data to recreate analyses prior to visualization
